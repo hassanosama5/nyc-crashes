@@ -1,0 +1,402 @@
+COLLISION_ID,CRASH_DATETIME,YEAR,MONTH,HOUR,DAY_OF_WEEK,BOROUGH,ZIP CODE,LATITUDE,LONGITUDE,NUMBER OF PERSONS INJURED,NUMBER OF PERSONS KILLED,NUMBER OF PEDESTRIANS INJURED,NUMBER OF PEDESTRIANS KILLED,NUMBER OF CYCLIST INJURED,NUMBER OF CYCLIST KILLED,NUMBER OF MOTORIST INJURED,NUMBER OF MOTORIST KILLED,CONTRIBUTING FACTOR VEHICLE 1,CONTRIBUTING_FACTOR_1,VEHICLE_TYPE,VEHICLE_MAKE,VEHICLE_YEAR,DRIVER_SEX,POINT_OF_IMPACT,TRAVEL_DIRECTION
+4489720,2021-12-23 16:25:00,2021,12,16,Thursday,Brooklyn,11233,40.682278,-73.9226,0,0,0,0,0,0,0,0,Passing Or Lane Usage Improper,Passing Or Lane Usage Improper,Sedan,Chev -Car/Suv,2016,M,Left Front Bumper,North
+4512305,2022-03-17 20:51:00,2022,3,20,Thursday,Queens,11385,40.702,-73.88009,2,0,2,0,0,0,0,0,Driver Inattention/Distraction,Unspecified,Sedan,Hond -Car/Suv,2018,Unknown,Left Front Bumper,South
+4490369,2021-12-23 08:49:00,2021,12,8,Thursday,Unknown,0,,,0,0,0,0,0,0,0,0,Following Too Closely,Unspecified,Pick-Up Truck,Kenwo,2009,M,Left Rear Bumper,Southeast
+4490655,2021-12-20 06:38:00,2021,12,6,Monday,Manhattan,10029,40.793766,-73.93411,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Unknown,Unknown,0,Unknown,Right Front Bumper,Northeast
+4464388,2021-09-29 12:42:00,2021,9,12,Wednesday,Brooklyn,11208,40.67732,-73.87871,1,0,0,0,0,0,1,0,Unspecified,Unspecified,Convertible,Ford -Car/Suv,2013,M,Center Back End,North
+4490489,2021-12-29 12:21:00,2021,12,12,Wednesday,Brooklyn,11204,40.620815,-73.98986,0,0,0,0,0,0,0,0,Passing Too Closely,Passing Too Closely,Box Truck,Frht-Truck/Bus,2020,M,Left Rear Quarter Panel,West
+4491703,2022-01-03 09:30:00,2022,1,9,Monday,Queens,11356,40.780144,-73.84876,0,0,0,0,0,0,0,0,Passing Or Lane Usage Improper,Unspecified,Sedan,Unknown,2015,Unknown,Left Front Quarter Panel,West
+4566573,2022-09-21 14:42:00,2022,9,14,Wednesday,Unknown,0,,,0,0,0,0,0,0,0,0,Reaction To Uninvolved Vehicle,Unspecified,Unknown,Unknown,0,Unknown,Unknown,Unknown
+4598543,2023-01-07 17:28:00,2023,1,17,Saturday,Bronx,10463,40.879818,-73.90415,1,0,1,0,0,0,0,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Bike,Unknown,0,Unknown,Center Front End,North
+4518174,2022-03-28 19:00:00,2022,3,19,Monday,Brooklyn,11231,40.678936,-74.001915,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Sedan,Hond -Car/Suv,2020,Unknown,Right Front Quarter Panel,Unknown
+4496515,2022-01-10 16:43:00,2022,1,16,Monday,Manhattan,10029,40.792984,-73.94007,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Sedan,Ford -Car/Suv,2016,Unknown,Right Rear Quarter Panel,East
+4466616,2021-10-12 16:30:00,2021,10,16,Tuesday,Queens,11378,40.732018,-73.91904,2,0,0,0,0,0,2,0,Driver Inattention/Distraction,Unspecified,Sedan,Kia -Car/Suv,2021,M,Center Back End,South
+4518679,2022-04-07 09:51:00,2022,4,9,Thursday,Bronx,10466,40.887688,-73.85225,1,0,0,0,0,0,1,0,Unsafe Speed,Unspecified,Unknown,Morgan Olson,2016,F,Left Rear Bumper,West
+4496997,2022-01-23 21:50:00,2022,1,21,Sunday,Brooklyn,11218,40.637863,-73.96568,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Unspecified,Sedan,Toyt -Car/Suv,2012,M,Center Front End,North
+4497402,2022-01-25 13:31:00,2022,1,13,Tuesday,Unknown,0,40.80897,-73.94833,1,0,0,0,0,0,1,0,Following Too Closely,Unspecified,Sedan,Unknown,2019,F,Center Back End,East
+4499289,2022-02-02 03:06:00,2022,2,3,Wednesday,Unknown,0,40.820137,-73.89029,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Sedan,Toyt -Car/Suv,2009,F,Center Front End,East
+4545393,2022-07-10 18:37:00,2022,7,18,Sunday,Bronx,10469,40.876377,-73.84601,0,0,0,0,0,0,0,0,Following Too Closely,Following Too Closely,Bus,Unknown,2022,M,Right Front Quarter Panel,South
+4502531,2022-02-11 13:45:00,2022,2,13,Friday,Unknown,0,40.82214,-73.930824,0,0,0,0,0,0,0,0,Following Too Closely,Unspecified,Sedan,Toyt -Car/Suv,2018,F,Center Back End,North
+4484063,2021-12-06 14:45:00,2021,12,14,Monday,Brooklyn,11203,40.654278,-73.92292,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Sedan,Infi -Car/Suv,2006,M,Left Side Doors,East
+4485115,2021-12-09 12:00:00,2021,12,12,Thursday,Unknown,0,40.737682,-73.85206,0,0,0,0,0,0,0,0,Following Too Closely,Following Too Closely,Box Truck,Intl-Truck/Bus,2021,M,Trailer,West
+4507459,2022-03-04 06:30:00,2022,3,6,Friday,Unknown,0,40.69821,-73.92406,0,0,0,0,0,0,0,0,Turning Improperly,Unspecified,Station Wagon/Sport Utility Vehicle,Niss -Car/Suv,2017,Unknown,Left Front Bumper,Northwest
+4523879,2022-05-01 18:00:00,2022,5,18,Sunday,Unknown,0,40.636837,-74.156944,1,0,0,0,0,0,1,0,Following Too Closely,Following Too Closely,Sedan,Toyt -Car/Suv,2008,M,Center Back End,West
+4523906,2022-05-01 23:40:00,2022,5,23,Sunday,Unknown,0,40.790894,-73.945175,1,0,0,0,0,0,1,0,Unsafe Lane Changing,Unspecified,Taxi,Niss -Car/Suv,2015,M,Right Front Quarter Panel,North
+4524004,2022-05-02 07:00:00,2022,5,7,Monday,Unknown,0,40.81286,-73.96341,0,0,0,0,0,0,0,0,Turning Improperly,Unsafe Speed,Sedan,Toyt -Car/Suv,2012,M,Left Side Doors,East
+4509669,2022-03-10 17:35:00,2022,3,17,Thursday,Brooklyn,11216,40.6752,-73.950005,0,0,0,0,0,0,0,0,Backing Unsafely,Backing Unsafely,Sedan,Hyun -Car/Suv,2012,Unknown,Center Back End,West
+4510292,2022-03-14 17:14:00,2022,3,17,Monday,Bronx,10460,40.84539,-73.88108,0,0,0,0,0,0,0,0,Other Vehicular,Other Vehicular,Station Wagon/Sport Utility Vehicle,Niss -Car/Suv,2016,F,Right Front Bumper,West
+4510628,2022-03-15 18:20:00,2022,3,18,Tuesday,Brooklyn,11222,40.725277,-73.94621,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Unknown,Unknown,0,Unknown,Right Front Quarter Panel,Northeast
+4513206,2022-03-23 12:42:00,2022,3,12,Wednesday,Brooklyn,11207,40.680035,-73.9055,0,0,0,0,0,0,0,0,Other Vehicular,Other Vehicular,Van,Unknown,2005,M,Right Front Bumper,East
+4513652,2022-03-17 23:30:00,2022,3,23,Thursday,Manhattan,10012,40.724365,-73.99325,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Sedan,Tesl -Car/Suv,2021,M,Center Back End,West
+4548900,2022-07-22 08:35:00,2022,7,8,Friday,Unknown,0,40.766685,-73.892136,2,0,0,0,0,0,2,0,Following Too Closely,Unspecified,Sedan,Toyt -Car/Suv,2002,M,Center Back End,East
+4528185,2022-05-14 20:00:00,2022,5,20,Saturday,Manhattan,10020,40.76135,-73.98196,1,0,0,0,1,0,0,0,Driver Inattention/Distraction,Unspecified,Bike,Unknown,0,M,Right Front Bumper,East
+4548815,2022-07-24 14:04:00,2022,7,14,Sunday,Unknown,0,,,0,0,0,0,0,0,0,0,Failure To Yield Right-Of-Way,Unspecified,Sedan,Hond -Car/Suv,2012,F,Center Front End,South
+4531226,2022-05-21 15:00:00,2022,5,15,Saturday,Unknown,0,40.822018,-73.953674,1,0,0,0,1,0,0,0,Unspecified,Unspecified,Bike,Unknown,0,M,Center Front End,West
+4530396,2022-05-23 10:30:00,2022,5,10,Monday,Queens,11429,40.709843,-73.73663,0,0,0,0,0,0,0,0,Backing Unsafely,Unspecified,Station Wagon/Sport Utility Vehicle,Niss -Car/Suv,2020,Unknown,Center Front End,North
+4550202,2022-07-27 15:30:00,2022,7,15,Wednesday,Unknown,0,40.67187,-73.95464,1,0,0,0,1,0,0,0,Driver Inattention/Distraction,Unspecified,Bike,Unknown,0,M,Center Front End,North
+4535051,2022-06-04 08:17:00,2022,6,8,Saturday,Staten Island,10310,40.64062,-74.10674,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Unspecified,Sedan,Ford -Car/Suv,2020,Unknown,Left Front Bumper,North
+4534736,2022-06-06 11:17:00,2022,6,11,Monday,Unknown,0,40.722977,-74.005066,0,0,0,0,0,0,0,0,Unsafe Lane Changing,Unsafe Lane Changing,Sedan,Unknown,0,Unknown,Left Front Bumper,North
+4571795,2022-09-30 16:03:00,2022,9,16,Friday,Manhattan,10033,40.847427,-73.931404,0,0,0,0,0,0,0,0,Passing Too Closely,Unspecified,Bus,Newfl,2017,M,Right Front Quarter Panel,South
+4536981,2022-06-12 09:59:00,2022,6,9,Sunday,Queens,11417,,,0,0,0,0,0,0,0,0,Passing Or Lane Usage Improper,Unspecified,Bus,Mcin-Truck/Bus,2007,M,Center Front End,West
+4537480,2022-06-12 22:10:00,2022,6,22,Sunday,Manhattan,10037,40.80918,-73.93605,2,0,0,0,0,0,2,0,Unspecified,Unspecified,Sedan,Hyun -Car/Suv,2006,F,Left Rear Quarter Panel,Unknown
+4571541,2022-10-09 00:00:00,2022,10,0,Sunday,Unknown,0,40.655575,-73.926895,0,0,0,0,0,0,0,0,Alcohol Involvement,Alcohol Involvement,Sedan,Chev -Car/Suv,2018,M,Left Front Bumper,East
+4571301,2022-10-09 04:04:00,2022,10,4,Sunday,Unknown,0,40.833813,-73.86275,2,0,0,0,0,0,2,0,Unsafe Speed,Unsafe Speed,Station Wagon/Sport Utility Vehicle,Unknown,0,Unknown,Unknown,South
+4538517,2022-06-18 01:30:00,2022,6,1,Saturday,Unknown,0,40.828407,-73.93125,0,0,0,0,0,0,0,0,Turning Improperly,Turning Improperly,Sedan,Unknown,0,Unknown,Left Front Bumper,South
+4555110,2022-08-12 21:20:00,2022,8,21,Friday,Unknown,0,,,3,0,0,0,0,0,3,0,Unspecified,Unspecified,Sedan,Toyt -Car/Suv,2015,M,Center Back End,North
+4540683,2022-06-22 09:12:00,2022,6,9,Wednesday,Brooklyn,11212,40.66977,-73.910126,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Sedan,Ford -Car/Suv,0,F,Left Front Bumper,West
+4556946,2022-08-20 16:30:00,2022,8,16,Saturday,Manhattan,10036,40.75484,-73.98412,0,0,0,0,0,0,0,0,Following Too Closely,Following Too Closely,Sedan,Ford -Car/Suv,2012,Unknown,No Damage,North
+4556828,2022-08-20 03:00:00,2022,8,3,Saturday,Unknown,0,40.74614,-73.81417,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Sedan,Ford -Car/Suv,2021,Unknown,Left Front Quarter Panel,West
+4625852,2023-04-29 19:17:00,2023,4,19,Saturday,Unknown,0,40.667976,-73.93399,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Unknown,Unknown,0,Unknown,Center Front End,North
+4557625,2022-08-10 13:00:00,2022,8,13,Wednesday,Manhattan,10002,40.72191,-73.990036,0,0,0,0,0,0,0,0,Backing Unsafely,Unspecified,Station Wagon/Sport Utility Vehicle,Jeep -Car/Suv,2018,Unknown,Left Front Bumper,Unknown
+4558696,2022-08-24 12:12:00,2022,8,12,Wednesday,Unknown,0,40.864674,-73.896835,1,0,1,0,0,0,0,0,Failure To Yield Right-Of-Way,Failure To Yield Right-Of-Way,Unknown,Unknown,0,Unknown,Right Front Bumper,East
+4574618,2022-10-20 10:00:00,2022,10,10,Thursday,Queens,11101,40.743515,-73.93929,0,0,0,0,0,0,0,0,Passing Or Lane Usage Improper,Passing Or Lane Usage Improper,Unknown,Unknown,0,Unknown,Other,East
+4560441,2022-08-23 22:40:00,2022,8,22,Tuesday,Brooklyn,11226,40.652557,-73.95122,0,0,0,0,0,0,0,0,Outside Car Distraction,Unspecified,Station Wagon/Sport Utility Vehicle,Ford -Car/Suv,1998,Unknown,Center Back End,South
+4561672,2022-09-05 00:10:00,2022,9,0,Monday,Queens,11375,40.723633,-73.844826,1,0,0,0,0,0,0,0,Driver Inattention/Distraction,Other Vehicular,Pick-Up Truck,Ram,2018,M,Left Front Bumper,North
+4562646,2022-09-02 23:26:00,2022,9,23,Friday,Bronx,10455,40.812664,-73.906334,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Unspecified,Sedan,Jeep -Car/Suv,2020,M,Center Back End,East
+4562388,2022-09-08 10:15:00,2022,9,10,Thursday,Unknown,0,40.620438,-74.1672,0,0,0,0,0,0,0,0,Traffic Control Disregarded,Traffic Control Disregarded,Box Truck,Isu-Truck/Bus,2021,M,Left Rear Quarter Panel,East
+4577830,2022-10-21 02:07:00,2022,10,2,Friday,Queens,11103,40.760136,-73.918076,1,0,1,0,0,0,0,0,Unspecified,Unspecified,Pick-Up Truck,Ram,2022,M,Left Front Bumper,South
+4564437,2022-09-15 13:30:00,2022,9,13,Thursday,Brooklyn,11206,40.708595,-73.93775,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Unspecified,Sedan,Cadi -Car/Suv,2007,Unknown,Left Front Quarter Panel,Unknown
+4627226,2023-05-09 09:00:00,2023,5,9,Tuesday,Unknown,0,40.725193,-74.007675,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Sedan,Toyt -Car/Suv,2018,Unknown,Left Front Quarter Panel,West
+4676735,2023-10-28 17:49:00,2023,10,17,Saturday,Bronx,10465,40.87829,-73.87006,1,0,0,0,0,0,1,0,Following Too Closely,Unspecified,Sedan,Lexs -Car/Suv,2021,M,Center Back End,South
+4582533,2022-10-27 14:18:00,2022,10,14,Thursday,Unknown,0,40.70637,-73.75554,1,0,0,0,0,0,1,0,Failure To Yield Right-Of-Way,Unspecified,Motorcycle,Suzi -Mcl,2020,M,Center Front End,West
+4616628,2023-03-28 08:15:00,2023,3,8,Tuesday,Brooklyn,11230,40.613163,-73.95719,1,0,0,0,1,0,0,0,Driver Inattention/Distraction,Unspecified,Bike,Unknown,0,M,Other,West
+4676758,2023-11-05 00:00:00,2023,11,0,Sunday,Queens,11369,40.761177,-73.860306,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Unknown,Unknown,0,Unknown,Center Front End,West
+4607339,2023-02-17 19:00:00,2023,2,19,Friday,Unknown,0,40.629284,-74.15018,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Sedan,Hyun -Car/Suv,2022,Unknown,Right Front Bumper,East
+4607823,2023-02-20 07:00:00,2023,2,7,Monday,Unknown,0,,,0,0,0,0,0,0,0,0,Passing Or Lane Usage Improper,Unspecified,Station Wagon/Sport Utility Vehicle,Chev -Car/Suv,2021,M,Right Front Quarter Panel,North
+4628908,2023-05-14 21:30:00,2023,5,21,Sunday,Brooklyn,11224,40.57605,-73.98576,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Unknown,Unknown,0,Unknown,Right Front Quarter Panel,South
+4588565,2022-12-09 20:30:00,2022,12,20,Friday,Queens,11422,40.665558,-73.72985,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Garbage Or Refuse,Mack-Truck/Bus,2016,M,Right Front Bumper,West
+4588756,2022-12-11 03:30:00,2022,12,3,Sunday,Staten Island,10314,40.62197,-74.12257,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Unknown,Unknown,0,Unknown,Center Front End,East
+4611179,2023-03-07 17:20:00,2023,3,17,Tuesday,Unknown,0,40.679337,-73.94405,0,0,0,0,0,0,0,0,Passing Or Lane Usage Improper,Passing Or Lane Usage Improper,Sedan,Unknown,0,Unknown,Right Front Quarter Panel,South
+4594301,2022-12-23 07:00:00,2022,12,7,Friday,Queens,11358,40.755806,-73.797066,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Sedan,Hond -Car/Suv,2019,Unknown,Center Front End,West
+4613459,2023-03-15 14:20:00,2023,3,14,Wednesday,Unknown,0,40.830997,-73.88525,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Unspecified,Sedan,Toyt -Car/Suv,2006,M,Left Rear Bumper,South
+4616395,2023-03-24 09:00:00,2023,3,9,Friday,Unknown,0,40.67004,-73.93658,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Unknown,Unknown,0,Unknown,Unknown,Unknown
+4617227,2023-03-31 13:12:00,2023,3,13,Friday,Unknown,0,40.701614,-73.914856,0,0,0,0,0,0,0,0,Other Vehicular,Other Vehicular,Pick-Up Truck,Chev -Car/Suv,2016,Unknown,Right Side Doors,West
+4633878,2023-04-22 21:29:00,2023,4,21,Saturday,Brooklyn,11212,40.656685,-73.90454,0,0,0,0,0,0,0,0,Reaction To Uninvolved Vehicle,Unspecified,Unknown,Unknown,0,Unknown,Unknown,Unknown
+4634922,2023-06-02 15:36:00,2023,6,15,Friday,Unknown,0,40.69773,-73.81409,0,0,0,0,0,0,0,0,Passing Or Lane Usage Improper,Unspecified,Sedan,Merz -Car/Suv,2019,M,Right Front Bumper,South
+4634177,2023-05-30 10:00:00,2023,5,10,Tuesday,Queens,11102,40.771896,-73.91987,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Station Wagon/Sport Utility Vehicle,Ford -Car/Suv,2002,Unknown,Right Front Quarter Panel,South
+4620672,2023-04-15 17:10:00,2023,4,17,Saturday,Brooklyn,11249,40.714886,-73.96223,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Taxi,Toyt -Car/Suv,2015,M,Right Front Bumper,West
+4635955,2023-06-07 00:15:00,2023,6,0,Wednesday,Queens,11434,40.673794,-73.78867,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Unspecified,Station Wagon/Sport Utility Vehicle,Merz -Car/Suv,2018,Unknown,Center Back End,North
+4657539,2023-08-25 10:30:00,2023,8,10,Friday,Manhattan,10010,40.742233,-73.9933,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Unspecified,Station Wagon/Sport Utility Vehicle,Ford -Car/Suv,2022,M,Left Rear Bumper,North
+4657611,2023-08-28 00:13:00,2023,8,0,Monday,Queens,11104,40.738598,-73.927246,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Unspecified,Sedan,Toyt -Car/Suv,2014,Unknown,Center Back End,Northeast
+4639975,2023-06-18 01:17:00,2023,6,1,Sunday,Bronx,10458,40.859875,-73.89323,0,0,0,0,0,0,0,0,Turning Improperly,Passing Or Lane Usage Improper,Unknown,Niss -Car/Suv,2002,Unknown,Unknown,Unknown
+4640002,2023-06-22 23:52:00,2023,6,23,Thursday,Unknown,0,40.869522,-73.8899,0,0,0,0,0,0,0,0,Fell Asleep,Unspecified,Sedan,Kia -Car/Suv,2023,F,Left Rear Bumper,West
+4641349,2023-06-27 19:20:00,2023,6,19,Tuesday,Manhattan,10019,40.763023,-73.97815,0,0,0,0,0,0,0,0,Driver Inexperience,Unspecified,Taxi,Niss -Car/Suv,2015,M,Other,West
+4646250,2023-07-15 09:00:00,2023,7,9,Saturday,Queens,11369,40.759407,-73.85713,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Pick-Up Truck,Ford -Car/Suv,2009,Unknown,Center Front End,North
+4648396,2023-07-23 14:35:00,2023,7,14,Sunday,Manhattan,10001,40.75458,-73.99915,0,0,0,0,0,0,0,0,Failure To Yield Right-Of-Way,Failure To Yield Right-Of-Way,Bike,Unknown,0,M,Center Front End,Unknown
+4663450,2023-09-15 10:58:00,2023,9,10,Friday,Unknown,0,40.627872,-73.98481,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Unknown,Unknown,0,Unknown,Unknown,Unknown
+4665944,2023-09-26 12:30:00,2023,9,12,Tuesday,Manhattan,10003,40.731163,-73.99193,1,0,0,0,1,0,0,0,Unspecified,Unspecified,Unknown,Unknown,0,Unknown,Unknown,Unknown
+4682770,2023-11-28 02:15:00,2023,11,2,Tuesday,Staten Island,10301,40.63817,-74.08454,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Sedan,Toyt -Car/Suv,2009,Unknown,Right Side Doors,Unknown
+4665756,2023-09-27 07:00:00,2023,9,7,Wednesday,Unknown,0,,,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Ambulance,Ford-Truck/Bus,2022,M,Right Side Doors,West
+4685782,2023-12-03 20:03:00,2023,12,20,Sunday,Manhattan,10033,40.849213,-73.9338,1,0,0,0,1,0,0,0,Turning Improperly,Turning Improperly,Taxi,Lexs -Car/Suv,2020,M,Center Front End,North
+4685984,2023-11-19 19:04:00,2023,11,19,Sunday,Manhattan,10031,40.827152,-73.946205,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Unknown,Unknown,0,Unknown,Unknown,Unknown
+4673413,2023-10-18 18:30:00,2023,10,18,Wednesday,Unknown,0,40.6828,-73.90638,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Unknown,Unknown,0,Unknown,Left Front Bumper,West
+4704336,2024-02-21 13:05:00,2024,2,13,Wednesday,Unknown,0,40.750885,-73.81942,1,0,1,0,0,0,0,0,Unspecified,Unspecified,Station Wagon/Sport Utility Vehicle,Toyt -Car/Suv,2019,M,Right Side Doors,North
+4687695,2023-12-12 17:12:00,2023,12,17,Tuesday,Manhattan,10034,40.867767,-73.92593,0,0,0,0,0,0,0,0,Failure To Yield Right-Of-Way,Failure To Yield Right-Of-Way,Sedan,Infi -Car/Suv,2015,F,Right Front Bumper,East
+4705304,2024-02-24 04:50:00,2024,2,4,Saturday,Unknown,0,40.814632,-73.9442,1,0,0,0,0,0,1,0,Alcohol Involvement,Unspecified,Sedan,Hyun -Car/Suv,2016,M,Center Front End,South
+4705304,2024-02-24 04:50:00,2024,2,4,Saturday,Unknown,0,40.814632,-73.9442,1,0,0,0,0,0,1,0,Alcohol Involvement,Alcohol Involvement,Sedan,Niss -Car/Suv,2007,F,Center Front End,South
+4705304,2024-02-24 04:50:00,2024,2,4,Saturday,Unknown,0,40.814632,-73.9442,1,0,0,0,0,0,1,0,Alcohol Involvement,Unspecified,Unknown,Unknown,0,Unknown,Unknown,Unknown
+4704693,2024-02-24 07:39:00,2024,2,7,Saturday,Bronx,10469,40.865547,-73.86157,1,0,0,0,0,0,0,0,Unspecified,Traffic Control Disregarded,E-Scooter,Unknown,0,M,Center Front End,North
+4675717,2023-10-31 23:00:00,2023,10,23,Tuesday,Queens,11354,40.76879,-73.81355,0,0,0,0,0,0,0,0,Passing Too Closely,Unspecified,Sedan,Bmw -Car/Suv,2018,Unknown,Left Front Quarter Panel,South
+4688013,2023-12-17 01:07:00,2023,12,1,Sunday,Bronx,10468,40.86022,-73.90721,0,0,0,0,0,0,0,0,Alcohol Involvement,Alcohol Involvement,Sedan,Toyt -Car/Suv,2012,M,Left Front Bumper,North
+4688531,2023-12-18 19:31:00,2023,12,19,Monday,Unknown,0,40.69382,-73.72694,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Sedan,Hond -Car/Suv,2017,M,Center Back End,South
+4705885,2024-02-22 21:12:00,2024,2,21,Thursday,Unknown,0,40.80543,-73.92087,4,0,0,0,0,0,4,0,Unsafe Lane Changing,Unspecified,Station Wagon/Sport Utility Vehicle,Ford -Car/Suv,2023,M,Right Front Quarter Panel,West
+4705885,2024-02-22 21:12:00,2024,2,21,Thursday,Unknown,0,40.80543,-73.92087,4,0,0,0,0,0,4,0,Unsafe Lane Changing,Unspecified,Taxi,Toyt -Car/Suv,2011,M,Left Rear Bumper,West
+4705885,2024-02-22 21:12:00,2024,2,21,Thursday,Unknown,0,40.80543,-73.92087,4,0,0,0,0,0,4,0,Unsafe Lane Changing,Unspecified,Sedan,Hond -Car/Suv,2004,M,Left Rear Quarter Panel,West
+4705885,2024-02-22 21:12:00,2024,2,21,Thursday,Unknown,0,40.80543,-73.92087,4,0,0,0,0,0,4,0,Unsafe Lane Changing,Unsafe Lane Changing,Sedan,Chev -Car/Suv,2013,F,Left Front Quarter Panel,West
+4688652,2023-12-19 08:49:00,2023,12,8,Tuesday,Queens,11420,40.680214,-73.82121,0,0,0,0,0,0,0,0,Turning Improperly,Turning Improperly,Unknown,Unknown,0,Unknown,Right Front Bumper,North
+4689512,2023-12-18 08:00:00,2023,12,8,Monday,Unknown,0,40.819042,-73.81724,1,0,0,0,0,0,1,0,Unspecified,Unspecified,Sedan,Niss -Car/Suv,2017,Unknown,Center Front End,South
+4706058,2024-02-29 17:00:00,2024,2,17,Thursday,Brooklyn,11207,40.67247,-73.90084,2,0,0,0,0,0,2,0,Unspecified,Unspecified,Sedan,Hyun -Car/Suv,2018,M,Right Front Bumper,South
+4706226,2024-02-29 19:07:00,2024,2,19,Thursday,Brooklyn,11207,40.674767,-73.88536,1,0,0,0,0,0,1,0,Unspecified,Unspecified,Sedan,Hond -Car/Suv,2020,F,Left Front Bumper,West
+4706614,2024-02-26 02:27:00,2024,2,2,Monday,Unknown,0,,,0,0,0,0,0,0,0,0,Backing Unsafely,Backing Unsafely,Sedan,Acur -Car/Suv,2007,M,Center Back End,South
+4706157,2024-03-01 03:22:00,2024,3,3,Friday,Unknown,0,,,1,0,0,0,0,0,0,0,Unspecified,Driver Inattention/Distraction,E-Bike,Unknown,0,M,Center Front End,South
+4706157,2024-03-01 03:22:00,2024,3,3,Friday,Unknown,0,,,1,0,0,0,0,0,0,0,Unspecified,Unspecified,Sedan,Toyt -Car/Suv,2016,M,Left Side Doors,East
+4706568,2024-03-03 06:00:00,2024,3,6,Sunday,Unknown,0,40.787544,-73.82394,0,0,0,0,0,0,0,0,Reaction To Uninvolved Vehicle,Reaction To Uninvolved Vehicle,Sedan,Toyt -Car/Suv,2016,M,Left Side Doors,South
+4707248,2024-03-04 23:55:00,2024,3,23,Monday,Queens,11436,40.670322,-73.79428,0,0,0,0,0,0,0,0,Cell Phone (Hands-Free),Unspecified,Sedan,Acur -Car/Suv,2007,Unknown,Right Front Bumper,South
+4707449,2024-03-04 17:40:00,2024,3,17,Monday,Brooklyn,11210,40.620487,-73.95437,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Station Wagon/Sport Utility Vehicle,Volv -Car/Suv,2023,Unknown,Left Rear Bumper,South
+4707372,2024-03-05 10:30:00,2024,3,10,Tuesday,Queens,11427,40.72368,-73.7624,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Unknown,Unknown,0,Unknown,Unknown,Unknown
+4701532,2024-02-06 06:55:00,2024,2,6,Tuesday,Queens,11101,40.75203,-73.92915,1,0,0,0,1,0,0,0,Driver Inattention/Distraction,Unspecified,Bike,Unknown,0,M,Left Front Quarter Panel,West
+4706562,2024-03-03 10:00:00,2024,3,10,Sunday,Queens,11354,40.764603,-73.819305,0,0,0,0,0,0,0,0,Backing Unsafely,Unspecified,Station Wagon/Sport Utility Vehicle,Toyt -Car/Suv,2019,Unknown,Center Front End,West
+4706562,2024-03-03 10:00:00,2024,3,10,Sunday,Queens,11354,40.764603,-73.819305,0,0,0,0,0,0,0,0,Backing Unsafely,Backing Unsafely,Station Wagon/Sport Utility Vehicle,Jeep -Car/Suv,2021,M,Center Back End,East
+4707920,2024-03-02 11:53:00,2024,3,11,Saturday,Manhattan,10016,40.750217,-73.979065,2,0,0,0,0,0,2,0,Driver Inattention/Distraction,Unspecified,Taxi,Toyt -Car/Suv,2018,Unknown,Center Back End,South
+4707920,2024-03-02 11:53:00,2024,3,11,Saturday,Manhattan,10016,40.750217,-73.979065,2,0,0,0,0,0,2,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Sedan,Suba -Car/Suv,2011,M,Center Front End,West
+4707920,2024-03-02 11:53:00,2024,3,11,Saturday,Manhattan,10016,40.750217,-73.979065,2,0,0,0,0,0,2,0,Driver Inattention/Distraction,Unspecified,Station Wagon/Sport Utility Vehicle,Hyun -Car/Suv,2023,Unknown,Center Back End,South
+4707920,2024-03-02 11:53:00,2024,3,11,Saturday,Manhattan,10016,40.750217,-73.979065,2,0,0,0,0,0,2,0,Driver Inattention/Distraction,Unspecified,Station Wagon/Sport Utility Vehicle,Jeep -Car/Suv,2023,Unknown,Left Rear Bumper,South
+4707920,2024-03-02 11:53:00,2024,3,11,Saturday,Manhattan,10016,40.750217,-73.979065,2,0,0,0,0,0,2,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Taxi,Niss -Car/Suv,2014,M,Left Side Doors,South
+4707946,2024-03-01 16:20:00,2024,3,16,Friday,Unknown,0,40.826492,-73.907745,1,0,0,0,0,0,0,0,Failure To Yield Right-Of-Way,Unspecified,E-Scooter,Unknown,0,M,Left Front Quarter Panel,South
+4707952,2024-03-04 08:00:00,2024,3,8,Monday,Queens,11693,40.58761,-73.810974,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Sedan,Hyun -Car/Suv,2023,Unknown,Center Front End,South
+4707940,2024-03-05 12:11:00,2024,3,12,Tuesday,Bronx,10452,40.83955,-73.91595,2,0,0,0,0,0,2,0,Illnes,Other Vehicular,Sedan,Saa -Car/Suv,2007,M,Center Back End,East
+4707940,2024-03-05 12:11:00,2024,3,12,Tuesday,Bronx,10452,40.83955,-73.91595,2,0,0,0,0,0,2,0,Illnes,Illnes,Station Wagon/Sport Utility Vehicle,Chev -Car/Suv,2024,M,Center Front End,East
+4707940,2024-03-05 12:11:00,2024,3,12,Tuesday,Bronx,10452,40.83955,-73.91595,2,0,0,0,0,0,2,0,Illnes,Unspecified,Sedan,Kia -Car/Suv,2023,F,Center Front End,East
+4707942,2024-03-05 16:13:00,2024,3,16,Tuesday,Bronx,10457,40.84299,-73.91099,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Niss -Car/Suv,2012,Unknown,Center Front End,East
+4707978,2024-03-04 05:50:00,2024,3,5,Monday,Unknown,0,,,1,0,1,0,0,0,0,0,Failure To Yield Right-Of-Way,Failure To Yield Right-Of-Way,Sedan,Ford -Car/Suv,2013,Unknown,Center Front End,East
+4707924,2024-03-02 16:30:00,2024,3,16,Saturday,Unknown,0,40.737682,-73.85206,1,0,1,0,0,0,0,0,Failure To Yield Right-Of-Way,Failure To Yield Right-Of-Way,Pick-Up Truck,Unknown,2012,M,Left Front Bumper,East
+4707395,2024-03-05 22:05:00,2024,3,22,Tuesday,Brooklyn,11235,40.58859,-73.95841,1,0,0,0,0,0,1,0,Backing Unsafely,Unspecified,Station Wagon/Sport Utility Vehicle,Lexs -Car/Suv,2023,Unknown,Right Front Quarter Panel,South
+4707395,2024-03-05 22:05:00,2024,3,22,Tuesday,Brooklyn,11235,40.58859,-73.95841,1,0,0,0,0,0,1,0,Backing Unsafely,Unspecified,Station Wagon/Sport Utility Vehicle,Toyt -Car/Suv,2018,Unknown,Right Front Bumper,South
+4707395,2024-03-05 22:05:00,2024,3,22,Tuesday,Brooklyn,11235,40.58859,-73.95841,1,0,0,0,0,0,1,0,Backing Unsafely,Backing Unsafely,Station Wagon/Sport Utility Vehicle,Ford -Car/Suv,2014,M,Left Rear Quarter Panel,North
+4707395,2024-03-05 22:05:00,2024,3,22,Tuesday,Brooklyn,11235,40.58859,-73.95841,1,0,0,0,0,0,1,0,Backing Unsafely,Unspecified,Station Wagon/Sport Utility Vehicle,Jeep -Car/Suv,2005,Unknown,Right Front Quarter Panel,South
+4707901,2024-03-05 13:17:00,2024,3,13,Tuesday,Brooklyn,11236,40.64165,-73.89069,1,0,0,0,0,0,1,0,Failure To Yield Right-Of-Way,Unspecified,Sedan,Kia -Car/Suv,2022,F,Right Rear Quarter Panel,West
+4707136,2024-03-05 03:18:00,2024,3,3,Tuesday,Manhattan,10065,40.76118,-73.95791,0,0,0,0,0,0,0,0,Unsafe Speed,Unsafe Speed,Sedan,Niss -Car/Suv,2020,M,Center Front End,South
+4707486,2024-03-05 11:02:00,2024,3,11,Tuesday,Queens,11385,40.69622,-73.89988,0,0,0,0,0,0,0,0,Passing Too Closely,Unspecified,Sedan,Niss -Car/Suv,2010,Unknown,Other,East
+4707858,2024-03-04 00:00:00,2024,3,0,Monday,Brooklyn,11207,40.65325,-73.89099,0,0,0,0,0,0,0,0,Turning Improperly,Unspecified,Unknown,Unknown,0,Unknown,Unknown,Unknown
+4707217,2024-03-05 08:45:00,2024,3,8,Tuesday,Queens,11369,40.758022,-73.87539,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Sedan,Unknown,2021,M,Center Back End,South
+4707498,2024-03-05 14:15:00,2024,3,14,Tuesday,Queens,11385,40.701687,-73.91176,0,0,0,0,0,0,0,0,Other Vehicular,Passing Too Closely,Station Wagon/Sport Utility Vehicle,Ford -Car/Suv,2021,M,Left Side Doors,South
+4707498,2024-03-05 14:15:00,2024,3,14,Tuesday,Queens,11385,40.701687,-73.91176,0,0,0,0,0,0,0,0,Other Vehicular,Other Vehicular,Bus,Ford-Truck/Bus,2019,M,No Damage,North
+4707237,2024-03-05 09:40:00,2024,3,9,Tuesday,Unknown,0,40.677715,-73.93587,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Unspecified,Station Wagon/Sport Utility Vehicle,Chev -Car/Suv,2013,M,Center Back End,East
+4707237,2024-03-05 09:40:00,2024,3,9,Tuesday,Unknown,0,40.677715,-73.93587,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Ford -Car/Suv,2022,M,Center Front End,East
+4707343,2024-03-05 15:10:00,2024,3,15,Tuesday,Brooklyn,11210,40.621994,-73.94598,1,0,0,0,0,0,1,0,Failure To Yield Right-Of-Way,Failure To Yield Right-Of-Way,Sedan,Niss -Car/Suv,2021,M,Right Front Bumper,Southeast
+4707312,2024-03-05 07:45:00,2024,3,7,Tuesday,Unknown,0,40.62055,-74.16919,2,0,0,0,0,0,2,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Sedan,Toyt -Car/Suv,2021,F,Right Side Doors,East
+4707312,2024-03-05 07:45:00,2024,3,7,Tuesday,Unknown,0,40.62055,-74.16919,2,0,0,0,0,0,2,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Sedan,Niss -Car/Suv,2020,F,Center Front End,North
+4707366,2024-03-05 15:10:00,2024,3,15,Tuesday,Bronx,10454,40.810726,-73.92465,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Bus,Ic Corp,2009,F,Right Rear Quarter Panel,West
+4707366,2024-03-05 15:10:00,2024,3,15,Tuesday,Bronx,10454,40.810726,-73.92465,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Sedan,Hyun -Car/Suv,2013,Unknown,Right Rear Quarter Panel,South
+4707754,2024-03-05 09:02:00,2024,3,9,Tuesday,Bronx,10473,40.822086,-73.851906,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Tractor Truck Diesel,Mack-Truck/Bus,1991,M,Right Rear Quarter Panel,West
+4707754,2024-03-05 09:02:00,2024,3,9,Tuesday,Bronx,10473,40.822086,-73.851906,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Station Wagon/Sport Utility Vehicle,Jeep -Car/Suv,2021,Unknown,Left Rear Quarter Panel,West
+4707475,2024-03-05 19:00:00,2024,3,19,Tuesday,Manhattan,10281,40.711567,-74.01579,1,0,0,0,1,0,0,0,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,Bike,Unknown,0,M,Left Front Bumper,East
+4707518,2024-03-05 18:15:00,2024,3,18,Tuesday,Queens,11434,40.684277,-73.78302,1,0,1,0,0,0,0,0,Failure To Yield Right-Of-Way,Failure To Yield Right-Of-Way,Station Wagon/Sport Utility Vehicle,Toyt -Car/Suv,2023,F,Center Front End,South
+4707806,2024-03-04 19:00:00,2024,3,19,Monday,Unknown,0,40.8166,-73.942764,2,0,0,0,0,0,2,0,Driver Inattention/Distraction,Unspecified,Ambulance,Ford,2023,M,Right Rear Quarter Panel,South
+4707598,2024-03-05 08:30:00,2024,3,8,Tuesday,Unknown,0,40.698116,-73.97754,1,0,0,0,1,0,0,0,Unspecified,Unspecified,Sedan,Infi -Car/Suv,2017,M,Center Front End,Southwest
+4707773,2024-03-05 11:00:00,2024,3,11,Tuesday,Queens,11423,40.717274,-73.76639,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Unknown,Unknown,0,Unknown,Unknown,Unknown
+4707773,2024-03-05 11:00:00,2024,3,11,Tuesday,Queens,11423,40.717274,-73.76639,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Sedan,Niss -Car/Suv,2024,Unknown,Center Front End,South
+4707287,2024-03-05 07:34:00,2024,3,7,Tuesday,Bronx,10462,40.8478,-73.86513,1,0,0,0,0,0,1,0,Pavement Slippery,Pavement Slippery,Sedan,Hond -Car/Suv,2003,F,Right Front Quarter Panel,West
+4707355,2024-03-05 16:50:00,2024,3,16,Tuesday,Unknown,0,40.58808,-74.16607,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Toyt -Car/Suv,0,Unknown,Right Front Bumper,North
+4707592,2024-03-05 08:11:00,2024,3,8,Tuesday,Unknown,0,40.869118,-73.83048,1,0,0,0,0,0,1,0,Driver Inexperience,Driver Inexperience,Sedan,Niss -Car/Suv,2019,M,Right Rear Bumper,North
+4707885,2024-03-02 10:30:00,2024,3,10,Saturday,Unknown,0,,,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Unknown,Unknown,0,Unknown,Unknown,Unknown
+4707885,2024-03-02 10:30:00,2024,3,10,Saturday,Unknown,0,,,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Sedan,Hond -Car/Suv,2019,M,Right Side Doors,Unknown
+4707373,2024-03-05 07:30:00,2024,3,7,Tuesday,Queens,11432,40.712284,-73.78536,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Sedan,Lexs -Car/Suv,2021,M,Left Front Quarter Panel,North
+4707317,2024-03-05 06:05:00,2024,3,6,Tuesday,Unknown,0,40.83934,-73.8257,1,0,0,0,0,0,1,0,Unspecified,Unspecified,Sedan,Hond -Car/Suv,2020,M,Left Rear Bumper,South
+4707630,2024-03-05 09:00:00,2024,3,9,Tuesday,Queens,11004,40.74234,-73.70226,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Station Wagon/Sport Utility Vehicle,Mazd -Car/Suv,2022,Unknown,Left Side Doors,North
+4707743,2024-02-15 05:50:00,2024,2,5,Thursday,Bronx,10460,40.835968,-73.87,0,0,0,0,0,0,0,0,Unsafe Lane Changing,Unspecified,Box Truck,Intl-Truck/Bus,2022,M,Right Front Quarter Panel,South
+4707743,2024-02-15 05:50:00,2024,2,5,Thursday,Bronx,10460,40.835968,-73.87,0,0,0,0,0,0,0,0,Unsafe Lane Changing,Unsafe Lane Changing,Box Truck,Unknown,0,Unknown,Left Front Quarter Panel,South
+4707845,2024-03-02 05:39:00,2024,3,5,Saturday,Brooklyn,11236,40.639854,-73.89781,0,0,0,0,0,0,0,0,Passenger Distraction,Unspecified,Sedan,Infi -Car/Suv,0,Unknown,Right Front Bumper,East
+4707465,2024-03-05 18:30:00,2024,3,18,Tuesday,Unknown,0,,,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Unknown,0,Unknown,Left Front Quarter Panel,North
+4707465,2024-03-05 18:30:00,2024,3,18,Tuesday,Unknown,0,,,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Unspecified,Station Wagon/Sport Utility Vehicle,Kia -Car/Suv,2023,F,Right Front Quarter Panel,North
+4707422,2024-03-05 20:25:00,2024,3,20,Tuesday,Manhattan,10001,40.746037,-73.990524,1,0,1,0,0,0,0,0,Failure To Yield Right-Of-Way,Failure To Yield Right-Of-Way,Unknown,Unknown,0,Unknown,Unknown,East
+4707581,2024-03-05 16:10:00,2024,3,16,Tuesday,Brooklyn,11233,40.685184,-73.920456,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Unknown,Isuzu,2024,M,Right Front Quarter Panel,North
+4707581,2024-03-05 16:10:00,2024,3,16,Tuesday,Brooklyn,11233,40.685184,-73.920456,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Station Wagon/Sport Utility Vehicle,Ford -Car/Suv,2010,Unknown,Left Front Bumper,North
+4707382,2024-03-05 17:58:00,2024,3,17,Tuesday,Queens,11103,40.75967,-73.92047,1,0,0,0,0,0,1,0,Failure To Yield Right-Of-Way,Failure To Yield Right-Of-Way,Station Wagon/Sport Utility Vehicle,Niss -Car/Suv,2015,F,Left Front Quarter Panel,West
+4707863,2024-03-02 09:50:00,2024,3,9,Saturday,Unknown,0,40.67772,-73.86486,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Station Wagon/Sport Utility Vehicle,Linc -Car/Suv,2010,Unknown,Left Front Bumper,North
+4707863,2024-03-02 09:50:00,2024,3,9,Saturday,Unknown,0,40.67772,-73.86486,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Pick-Up Truck,Ford -Car/Suv,2014,M,Right Rear Bumper,East
+4707540,2024-03-05 16:58:00,2024,3,16,Tuesday,Unknown,0,40.697853,-73.93325,0,0,0,0,0,0,0,0,Passing Or Lane Usage Improper,Unspecified,Station Wagon/Sport Utility Vehicle,Jeep -Car/Suv,2014,M,Right Rear Bumper,South
+4707540,2024-03-05 16:58:00,2024,3,16,Tuesday,Unknown,0,40.697853,-73.93325,0,0,0,0,0,0,0,0,Passing Or Lane Usage Improper,Passing Or Lane Usage Improper,Sedan,Hyun -Car/Suv,0,Unknown,Other,South
+4707430,2024-03-05 11:00:00,2024,3,11,Tuesday,Unknown,0,40.729996,-73.91187,1,0,0,0,0,0,1,0,Following Too Closely,Following Too Closely,Sedan,Bmw -Car/Suv,2017,F,Center Back End,West
+4707541,2024-03-05 22:00:00,2024,3,22,Tuesday,Unknown,0,40.699158,-73.927055,0,0,0,0,0,0,0,0,Passing Too Closely,Passing Too Closely,Unknown,Unknown,0,Unknown,Right Side Doors,East
+4707487,2024-03-05 09:00:00,2024,3,9,Tuesday,Bronx,10459,40.82737,-73.89294,0,0,0,0,0,0,0,0,Backing Unsafely,Unspecified,Sedan,Hond -Car/Suv,2013,Unknown,Left Side Doors,North
+4707163,2024-03-05 05:45:00,2024,3,5,Tuesday,Brooklyn,11226,40.654457,-73.960785,1,0,0,0,0,0,0,0,Traffic Control Disregarded,Traffic Control Disregarded,E-Scooter,Unknown,0,M,Center Front End,East
+4707163,2024-03-05 05:45:00,2024,3,5,Tuesday,Brooklyn,11226,40.654457,-73.960785,1,0,0,0,0,0,0,0,Traffic Control Disregarded,Unspecified,Sedan,Hond -Car/Suv,2006,M,Left Front Bumper,North
+4707221,2024-03-05 08:30:00,2024,3,8,Tuesday,Unknown,0,40.737682,-73.85206,0,0,0,0,0,0,0,0,Other Vehicular,Other Vehicular,Sedan,Niss -Car/Suv,2020,Unknown,Other,West
+4707378,2024-03-05 17:50:00,2024,3,17,Tuesday,Unknown,0,40.73771,-73.93591,0,0,0,0,0,0,0,0,Following Too Closely,Unspecified,Sedan,Ford -Car/Suv,2017,M,Center Back End,East
+4707378,2024-03-05 17:50:00,2024,3,17,Tuesday,Unknown,0,40.73771,-73.93591,0,0,0,0,0,0,0,0,Following Too Closely,Following Too Closely,Station Wagon/Sport Utility Vehicle,Jeep -Car/Suv,2021,F,Center Front End,East
+4707489,2024-03-05 22:51:00,2024,3,22,Tuesday,Bronx,10468,40.862186,-73.91003,0,0,0,0,0,0,0,0,Following Too Closely,Unspecified,Station Wagon/Sport Utility Vehicle,Toyt -Car/Suv,2021,M,Left Rear Bumper,East
+4707425,2024-03-05 10:40:00,2024,3,10,Tuesday,Manhattan,10003,40.738503,-73.991806,0,0,0,0,0,0,0,0,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,Driver Inattention/Distraction,E-Bike,Unknown,0,Unknown,Center Front End,South
+4707824,2024-03-05 17:50:00,2024,3,17,Tuesday,Manhattan,10016,40.750156,-73.97699,1,0,0,0,0,0,1,0,Failure To Yield Right-Of-Way,Failure To Yield Right-Of-Way,Bus,Unknown,2024,Unknown,No Damage,South
+4707824,2024-03-05 17:50:00,2024,3,17,Tuesday,Manhattan,10016,40.750156,-73.97699,1,0,0,0,0,0,1,0,Failure To Yield Right-Of-Way,Failure To Yield Right-Of-Way,Sedan,Ford -Car/Suv,2021,M,Left Front Bumper,South
+4707861,2024-03-05 20:39:00,2024,3,20,Tuesday,Brooklyn,11208,40.67374,-73.88341,0,0,0,0,0,0,0,0,Traffic Control Disregarded,Traffic Control Disregarded,Sedan,Merz -Car/Suv,2016,Unknown,Left Front Quarter Panel,North
+4707450,2024-03-05 11:25:00,2024,3,11,Tuesday,Brooklyn,11210,40.635708,-73.95439,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Unknown,Unknown,0,Unknown,Right Front Bumper,East
+4707316,2024-03-05 06:07:00,2024,3,6,Tuesday,Unknown,0,40.83934,-73.8257,3,0,0,0,0,0,3,0,Pavement Slippery,Unspecified,Pick-Up Truck,Ford -Car/Suv,2013,M,Center Back End,South
+4707316,2024-03-05 06:07:00,2024,3,6,Tuesday,Unknown,0,40.83934,-73.8257,3,0,0,0,0,0,3,0,Pavement Slippery,Pavement Slippery,Bus,Mcin-Truck/Bus,2006,F,Center Front End,South
+4707339,2024-03-05 09:43:00,2024,3,9,Tuesday,Unknown,0,,,4,0,0,0,0,0,4,0,Following Too Closely,Following Too Closely,Sedan,Niss -Car/Suv,2017,M,Left Rear Bumper,East
+4707396,2024-03-05 18:24:00,2024,3,18,Tuesday,Queens,11435,40.695446,-73.81157,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Unspecified,Sedan,Hond -Car/Suv,2010,M,Right Front Bumper,North
+4707288,2024-03-05 12:54:00,2024,3,12,Tuesday,Brooklyn,11249,40.70113,-73.96087,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Driver Inexperience,Box Truck,Hino -Truck/Bus,2007,M,Right Front Quarter Panel,Northeast
+4707288,2024-03-05 12:54:00,2024,3,12,Tuesday,Brooklyn,11249,40.70113,-73.96087,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Sedan,Toyt -Car/Suv,2020,M,Left Side Doors,Northeast
+4707634,2024-03-05 11:20:00,2024,3,11,Tuesday,Unknown,0,,,1,0,0,0,0,0,1,0,Following Too Closely,Following Too Closely,Station Wagon/Sport Utility Vehicle,Volk -Car/Suv,2019,M,Right Front Bumper,East
+4707331,2024-03-05 09:30:00,2024,3,9,Tuesday,Manhattan,10002,40.71983,-73.98755,2,0,0,0,0,0,2,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Ford -Car/Suv,2019,M,Right Front Bumper,North
+4707331,2024-03-05 09:30:00,2024,3,9,Tuesday,Manhattan,10002,40.71983,-73.98755,2,0,0,0,0,0,2,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Hond -Car/Suv,2016,F,Left Front Bumper,West
+4707434,2024-03-05 11:05:00,2024,3,11,Tuesday,Brooklyn,11215,40.670357,-73.98872,2,0,0,0,0,0,2,0,Following Too Closely,Unspecified,Sedan,Bmw -Car/Suv,2018,M,Center Back End,North
+4707434,2024-03-05 11:05:00,2024,3,11,Tuesday,Brooklyn,11215,40.670357,-73.98872,2,0,0,0,0,0,2,0,Following Too Closely,Unspecified,Station Wagon/Sport Utility Vehicle,Jeep -Car/Suv,2021,M,Center Front End,North
+4707434,2024-03-05 11:05:00,2024,3,11,Tuesday,Brooklyn,11215,40.670357,-73.98872,2,0,0,0,0,0,2,0,Following Too Closely,Following Too Closely,Van,Seagrave,2016,M,Center Front End,North
+4707810,2024-02-29 15:15:00,2024,2,15,Thursday,Queens,11434,40.66684,-73.78941,0,0,0,0,0,0,0,0,Driver Inexperience,Other Vehicular,Sedan,Audi -Car/Suv,2019,M,Center Front End,North
+4707810,2024-02-29 15:15:00,2024,2,15,Thursday,Queens,11434,40.66684,-73.78941,0,0,0,0,0,0,0,0,Driver Inexperience,Other Vehicular,Station Wagon/Sport Utility Vehicle,Toyt -Car/Suv,2020,M,Center Front End,North
+4707391,2024-03-05 17:06:00,2024,3,17,Tuesday,Unknown,0,40.72392,-73.89434,0,0,0,0,0,0,0,0,Failure To Yield Right-Of-Way,Failure To Yield Right-Of-Way,Station Wagon/Sport Utility Vehicle,Toyt -Car/Suv,2013,M,Center Front End,North
+4707443,2024-03-05 08:57:00,2024,3,8,Tuesday,Brooklyn,11215,40.67417,-73.97883,0,0,0,0,0,0,0,0,Turning Improperly,Turning Improperly,Box Truck,Unknown,2022,M,Center Back End,South
+4707443,2024-03-05 08:57:00,2024,3,8,Tuesday,Brooklyn,11215,40.67417,-73.97883,0,0,0,0,0,0,0,0,Turning Improperly,Unspecified,Station Wagon/Sport Utility Vehicle,Kia -Car/Suv,2019,Unknown,Left Front Bumper,South
+4707874,2024-03-01 14:11:00,2024,3,14,Friday,Bronx,10459,40.81969,-73.90161,1,0,0,0,0,0,0,0,Driver Inexperience,Unspecified,Sedan,Toyt -Car/Suv,2019,M,Left Front Bumper,Northwest
+4707874,2024-03-01 14:11:00,2024,3,14,Friday,Bronx,10459,40.81969,-73.90161,1,0,0,0,0,0,0,0,Driver Inexperience,Driver Inexperience,E-Scooter,Unknown,0,M,Center Front End,West
+4707233,2024-03-05 10:13:00,2024,3,10,Tuesday,Bronx,10473,40.824085,-73.87622,1,0,0,0,0,0,1,0,Pavement Slippery,Unspecified,Bus,Tr,2010,M,Center Back End,West
+4707771,2024-03-05 15:10:00,2024,3,15,Tuesday,Queens,11434,40.67717,-73.78686,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Unknown,Unknown,0,Unknown,Unknown,Unknown
+4707368,2024-03-05 17:00:00,2024,3,17,Tuesday,Bronx,10451,40.812267,-73.92747,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Sedan,Chev -Car/Suv,2014,Unknown,Left Front Bumper,North
+4707368,2024-03-05 17:00:00,2024,3,17,Tuesday,Bronx,10451,40.812267,-73.92747,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Pick-Up Truck,Ram,2019,Unknown,Right Front Bumper,North
+4707650,2024-03-05 07:11:00,2024,3,7,Tuesday,Queens,11370,40.763058,-73.88389,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Unspecified,Sedan,Toyt -Car/Suv,2023,M,Right Front Quarter Panel,North
+4707558,2024-03-05 12:17:00,2024,3,12,Tuesday,Unknown,0,40.67505,-73.95639,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Passing Or Lane Usage Improper,Sedan,Toyt -Car/Suv,2016,M,Overturned,South
+4707558,2024-03-05 12:17:00,2024,3,12,Tuesday,Unknown,0,40.67505,-73.95639,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Acur -Car/Suv,2016,F,Left Front Bumper,South
+4707558,2024-03-05 12:17:00,2024,3,12,Tuesday,Unknown,0,40.67505,-73.95639,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Unspecified,Sedan,Toyt -Car/Suv,2016,Unknown,Right Front Quarter Panel,South
+4707558,2024-03-05 12:17:00,2024,3,12,Tuesday,Unknown,0,40.67505,-73.95639,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Unspecified,Station Wagon/Sport Utility Vehicle,Hond -Car/Suv,2012,Unknown,Right Front Quarter Panel,South
+4707470,2024-03-05 08:45:00,2024,3,8,Tuesday,Manhattan,10004,40.704853,-74.01158,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Station Wagon/Sport Utility Vehicle,Linc -Car/Suv,2020,F,Undercarriage,North
+4707514,2024-03-05 20:22:00,2024,3,20,Tuesday,Manhattan,10029,40.794464,-73.93964,1,0,0,0,0,0,1,0,Unsafe Speed,Unsafe Speed,Sedan,Toyt -Car/Suv,2016,M,Right Front Bumper,East
+4707514,2024-03-05 20:22:00,2024,3,20,Tuesday,Manhattan,10029,40.794464,-73.93964,1,0,0,0,0,0,1,0,Unsafe Speed,Turning Improperly,Sedan,Toyt -Car/Suv,2013,M,Left Side Doors,East
+4707409,2024-03-05 00:55:00,2024,3,0,Tuesday,Brooklyn,11214,40.60309,-73.99262,0,0,0,0,0,0,0,0,Traffic Control Disregarded,Unspecified,Sedan,Unknown,2007,M,Left Front Quarter Panel,West
+4707409,2024-03-05 00:55:00,2024,3,0,Tuesday,Brooklyn,11214,40.60309,-73.99262,0,0,0,0,0,0,0,0,Traffic Control Disregarded,Traffic Control Disregarded,Motorcycle,Kawk -Mcl,0,Unknown,Left Front Bumper,North
+4707684,2024-03-05 18:10:00,2024,3,18,Tuesday,Manhattan,10128,40.777508,-73.9488,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Taxi,Cadi -Car/Suv,2024,M,Left Front Bumper,West
+4707684,2024-03-05 18:10:00,2024,3,18,Tuesday,Manhattan,10128,40.777508,-73.9488,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Taxi,Toyt -Car/Suv,2018,M,Right Rear Bumper,East
+4707249,2024-03-05 08:15:00,2024,3,8,Tuesday,Unknown,0,40.643784,-73.90218,0,0,0,0,0,0,0,0,Passing Or Lane Usage Improper,Traffic Control Disregarded,Station Wagon/Sport Utility Vehicle,Hond -Car/Suv,2011,M,Right Front Bumper,North
+4707249,2024-03-05 08:15:00,2024,3,8,Tuesday,Unknown,0,40.643784,-73.90218,0,0,0,0,0,0,0,0,Passing Or Lane Usage Improper,Passing Or Lane Usage Improper,Sedan,Hyun -Car/Suv,2017,M,Left Rear Quarter Panel,West
+4707530,2024-03-05 09:28:00,2024,3,9,Tuesday,Manhattan,10001,40.747536,-73.99026,0,0,0,0,0,0,0,0,Passing Too Closely,Unspecified,Sedan,Unknown,2022,M,Left Front Bumper,East
+4707530,2024-03-05 09:28:00,2024,3,9,Tuesday,Manhattan,10001,40.747536,-73.99026,0,0,0,0,0,0,0,0,Passing Too Closely,Passing Too Closely,Unknown,Ford,2023,M,No Damage,East
+4707342,2024-03-05 10:47:00,2024,3,10,Tuesday,Unknown,0,40.719177,-73.79223,1,0,0,0,0,0,1,0,Unspecified,Unspecified,Station Wagon/Sport Utility Vehicle,Hond -Car/Suv,2015,F,Center Back End,West
+4707544,2024-03-05 13:25:00,2024,3,13,Tuesday,Manhattan,10011,40.744034,-74.00313,0,0,0,0,0,0,0,0,Failure To Yield Right-Of-Way,Failure To Yield Right-Of-Way,Station Wagon/Sport Utility Vehicle,Toyt -Car/Suv,2017,M,Center Front End,South
+4707544,2024-03-05 13:25:00,2024,3,13,Tuesday,Manhattan,10011,40.744034,-74.00313,0,0,0,0,0,0,0,0,Failure To Yield Right-Of-Way,Unspecified,Station Wagon/Sport Utility Vehicle,Hond -Car/Suv,2021,M,Right Front Quarter Panel,West
+4707400,2024-03-05 09:00:00,2024,3,9,Tuesday,Unknown,0,40.68438,-73.94702,0,0,0,0,0,0,0,0,Following Too Closely,Unspecified,Convertible,Bmw -Car/Suv,2012,Unknown,Right Front Bumper,West
+4707400,2024-03-05 09:00:00,2024,3,9,Tuesday,Unknown,0,40.68438,-73.94702,0,0,0,0,0,0,0,0,Following Too Closely,Following Too Closely,Unknown,Unknown,0,Unknown,Left Front Bumper,West
+4707525,2024-03-05 18:19:00,2024,3,18,Tuesday,Bronx,10455,40.813095,-73.89827,0,0,0,0,0,0,0,0,Traffic Control Disregarded,Unspecified,Station Wagon/Sport Utility Vehicle,Hyun -Car/Suv,2016,F,Left Side Doors,South
+4707915,2024-03-05 19:30:00,2024,3,19,Tuesday,Brooklyn,11223,40.60265,-73.96475,1,0,0,0,0,0,0,0,Unspecified,Unspecified,Sedan,Niss -Car/Suv,2014,M,Left Side Doors,West
+4707915,2024-03-05 19:30:00,2024,3,19,Tuesday,Brooklyn,11223,40.60265,-73.96475,1,0,0,0,0,0,0,0,Unspecified,Unspecified,E-Scooter,Unknown,0,M,Left Front Bumper,West
+4707459,2024-03-05 12:20:00,2024,3,12,Tuesday,Queens,11369,40.768047,-73.86712,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Sedan,Unknown,2011,M,Right Front Quarter Panel,East
+4707459,2024-03-05 12:20:00,2024,3,12,Tuesday,Queens,11369,40.768047,-73.86712,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Sedan,Toyt -Car/Suv,2019,M,Left Front Bumper,East
+4707169,2024-03-05 00:12:00,2024,3,0,Tuesday,Bronx,10460,40.843998,-73.87852,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Sedan,Chev -Car/Suv,0,Unknown,Left Front Bumper,East
+4707169,2024-03-05 00:12:00,2024,3,0,Tuesday,Bronx,10460,40.843998,-73.87852,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Unspecified,Sedan,Jeep -Car/Suv,2014,F,Left Front Bumper,West
+4707636,2024-03-05 00:00:00,2024,3,0,Tuesday,Unknown,0,,,0,0,0,0,0,0,0,0,Following Too Closely,Following Too Closely,Sedan,Niss -Car/Suv,2019,M,Center Front End,East
+4707636,2024-03-05 00:00:00,2024,3,0,Tuesday,Unknown,0,,,0,0,0,0,0,0,0,0,Following Too Closely,Unspecified,Sedan,Mazd -Car/Suv,2024,F,Center Back End,East
+4707330,2024-03-05 06:51:00,2024,3,6,Tuesday,Brooklyn,11234,40.628643,-73.92019,0,0,0,0,0,0,0,0,Fell Asleep,Fell Asleep,Station Wagon/Sport Utility Vehicle,Niss -Car/Suv,2010,M,Center Front End,East
+4707330,2024-03-05 06:51:00,2024,3,6,Tuesday,Brooklyn,11234,40.628643,-73.92019,0,0,0,0,0,0,0,0,Fell Asleep,Unspecified,Sedan,Merz -Car/Suv,2011,Unknown,Center Back End,East
+4707332,2024-03-05 13:30:00,2024,3,13,Tuesday,Queens,11694,40.580727,-73.83772,0,0,0,0,0,0,0,0,Passing Too Closely,Unspecified,Station Wagon/Sport Utility Vehicle,Ford -Car/Suv,2022,Unknown,Left Rear Quarter Panel,North
+4707582,2024-03-05 21:15:00,2024,3,21,Tuesday,Unknown,0,40.679276,-73.92906,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Unspecified,Sedan,Mnni -Car/Suv,2014,Unknown,Left Rear Bumper,South
+4707354,2024-03-05 11:30:00,2024,3,11,Tuesday,Unknown,0,40.607864,-74.179184,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Hond -Car/Suv,2010,F,Right Front Bumper,West
+4707611,2024-03-05 12:00:00,2024,3,12,Tuesday,Bronx,10458,40.858418,-73.88514,0,0,0,0,0,0,0,0,Other Vehicular,Other Vehicular,Sedan,Hond -Car/Suv,2008,M,Left Side Doors,West
+4707611,2024-03-05 12:00:00,2024,3,12,Tuesday,Bronx,10458,40.858418,-73.88514,0,0,0,0,0,0,0,0,Other Vehicular,Other Vehicular,Taxi,Chry -Car/Suv,2022,M,Right Side Doors,West
+4707744,2024-02-29 12:50:00,2024,2,12,Thursday,Brooklyn,11206,40.702576,-73.95176,0,0,0,0,0,0,0,0,Other Vehicular,Passing Too Closely,Box Truck,Unknown,0,Unknown,Right Front Quarter Panel,Southwest
+4707744,2024-02-29 12:50:00,2024,2,12,Thursday,Brooklyn,11206,40.702576,-73.95176,0,0,0,0,0,0,0,0,Other Vehicular,Other Vehicular,Station Wagon/Sport Utility Vehicle,Jeep -Car/Suv,2022,M,Left Front Quarter Panel,Southwest
+4707276,2024-03-05 12:31:00,2024,3,12,Tuesday,Queens,11415,40.705128,-73.82819,1,0,0,0,0,0,1,0,Driver Inexperience,Driver Inexperience,Sedan,Niss -Car/Suv,2022,M,Left Front Quarter Panel,South
+4707276,2024-03-05 12:31:00,2024,3,12,Tuesday,Queens,11415,40.705128,-73.82819,1,0,0,0,0,0,1,0,Driver Inexperience,Driver Inexperience,Moped,Taizhuo Zhongneng,2023,M,Center Front End,West
+4707585,2024-03-05 16:00:00,2024,3,16,Tuesday,Unknown,0,40.8475,-73.86696,0,0,0,0,0,0,0,0,Other Vehicular,Other Vehicular,Station Wagon/Sport Utility Vehicle,Toyt -Car/Suv,2008,M,Center Back End,North
+4707585,2024-03-05 16:00:00,2024,3,16,Tuesday,Unknown,0,40.8475,-73.86696,0,0,0,0,0,0,0,0,Other Vehicular,Driver Inexperience,Station Wagon/Sport Utility Vehicle,Ford -Car/Suv,2013,Unknown,Other,North
+4707715,2024-03-05 12:00:00,2024,3,12,Tuesday,Queens,11377,40.736332,-73.90871,0,0,0,0,0,0,0,0,Backing Unsafely,Unspecified,Sedan,Toyt -Car/Suv,2015,Unknown,Left Rear Bumper,South
+4707798,2024-02-26 07:55:00,2024,2,7,Monday,Bronx,10459,40.823845,-73.896866,1,0,1,0,0,0,0,0,Unspecified,Unspecified,Unknown,Unknown,0,Unknown,Unknown,Unknown
+4707290,2024-03-05 09:00:00,2024,3,9,Tuesday,Brooklyn,11204,40.613388,-73.995995,1,0,1,0,0,0,0,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Sedan,Dodg -Car/Suv,2013,F,Center Front End,Southwest
+4707353,2024-03-05 19:04:00,2024,3,19,Tuesday,Brooklyn,11220,40.645664,-74.00974,0,0,0,0,0,0,0,0,View Obstructed/Limited,View Obstructed/Limited,Sedan,Hond -Car/Suv,2006,M,Left Front Bumper,West
+4707353,2024-03-05 19:04:00,2024,3,19,Tuesday,Brooklyn,11220,40.645664,-74.00974,0,0,0,0,0,0,0,0,View Obstructed/Limited,Unspecified,Sedan,Ford -Car/Suv,2022,M,Right Rear Bumper,West
+4707376,2024-03-05 08:35:00,2024,3,8,Tuesday,Queens,11361,40.759872,-73.76542,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Station Wagon/Sport Utility Vehicle,Niss -Car/Suv,2021,Unknown,Left Front Bumper,North
+4707490,2024-03-05 01:30:00,2024,3,1,Tuesday,Unknown,0,40.839275,-73.88436,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Sedan,Toyt -Car/Suv,2016,M,Left Front Bumper,East
+4707490,2024-03-05 01:30:00,2024,3,1,Tuesday,Unknown,0,40.839275,-73.88436,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Unknown,Unknown,0,Unknown,Unknown,Unknown
+4707830,2024-03-02 04:02:00,2024,3,4,Saturday,Unknown,0,40.85406,-73.91936,1,0,0,0,0,0,1,0,Alcohol Involvement,Alcohol Involvement,Sedan,Bmw -Car/Suv,2015,M,Center Front End,South
+4707830,2024-03-02 04:02:00,2024,3,4,Saturday,Unknown,0,40.85406,-73.91936,1,0,0,0,0,0,1,0,Alcohol Involvement,Unspecified,Station Wagon/Sport Utility Vehicle,Toyt -Car/Suv,2020,M,Center Back End,South
+4707315,2024-03-05 11:12:00,2024,3,11,Tuesday,Brooklyn,11236,40.63882,-73.8994,3,0,0,0,0,0,3,0,Traffic Control Disregarded,Traffic Control Disregarded,Station Wagon/Sport Utility Vehicle,Jeep -Car/Suv,2022,F,Right Front Quarter Panel,East
+4707397,2024-03-05 20:30:00,2024,3,20,Tuesday,Queens,11423,40.71848,-73.75978,0,0,0,0,0,0,0,0,Pavement Slippery,Pavement Slippery,Sedan,Toyt -Car/Suv,2004,M,Right Front Quarter Panel,South
+4707397,2024-03-05 20:30:00,2024,3,20,Tuesday,Queens,11423,40.71848,-73.75978,0,0,0,0,0,0,0,0,Pavement Slippery,Unspecified,Sedan,Hond -Car/Suv,2011,Unknown,Left Rear Quarter Panel,South
+4707247,2024-03-05 08:30:00,2024,3,8,Tuesday,Queens,11434,40.672382,-73.78574,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Acur -Car/Suv,2017,M,Right Front Bumper,South
+4707247,2024-03-05 08:30:00,2024,3,8,Tuesday,Queens,11434,40.672382,-73.78574,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Niss -Car/Suv,2014,F,Left Front Bumper,East
+4707369,2024-03-05 18:38:00,2024,3,18,Tuesday,Brooklyn,11215,40.665535,-73.99433,2,0,0,0,0,0,2,0,Driver Inattention/Distraction,Following Too Closely,Garbage Or Refuse,Mack-Truck/Bus,2023,M,Right Rear Bumper,East
+4707576,2024-03-05 00:00:00,2024,3,0,Tuesday,Unknown,0,,,0,0,0,0,0,0,0,0,Pavement Slippery,Pavement Slippery,Unknown,Unknown,0,Unknown,Center Back End,East
+4707576,2024-03-05 00:00:00,2024,3,0,Tuesday,Unknown,0,,,0,0,0,0,0,0,0,0,Pavement Slippery,Unspecified,Sedan,Toyt -Car/Suv,2013,M,Center Front End,East
+4707906,2024-03-03 02:00:00,2024,3,2,Sunday,Bronx,10474,40.81554,-73.88582,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Unknown,Unknown,0,Unknown,Unknown,Unknown
+4707745,2024-03-02 01:00:00,2024,3,1,Saturday,Brooklyn,11211,40.710957,-73.951126,0,0,0,0,0,0,0,0,Passing Or Lane Usage Improper,Passing Or Lane Usage Improper,Station Wagon/Sport Utility Vehicle,Jeep -Car/Suv,2004,Unknown,Center Front End,Northwest
+4707745,2024-03-02 01:00:00,2024,3,1,Saturday,Brooklyn,11211,40.710957,-73.951126,0,0,0,0,0,0,0,0,Passing Or Lane Usage Improper,Unspecified,Taxi,Toyt -Car/Suv,2019,M,Left Rear Quarter Panel,South
+4707603,2024-03-05 19:30:00,2024,3,19,Tuesday,Unknown,0,,,1,0,0,0,0,0,1,0,Traffic Control Disregarded,Unspecified,Station Wagon/Sport Utility Vehicle,Ford -Car/Suv,2017,Unknown,Center Front End,South
+4707603,2024-03-05 19:30:00,2024,3,19,Tuesday,Unknown,0,,,1,0,0,0,0,0,1,0,Traffic Control Disregarded,Unspecified,Sedan,Ford -Car/Suv,2020,M,Right Front Bumper,East
+4707603,2024-03-05 19:30:00,2024,3,19,Tuesday,Unknown,0,,,1,0,0,0,0,0,1,0,Traffic Control Disregarded,Traffic Control Disregarded,Van,Ford-Truck/Bus,2005,M,Right Front Bumper,North
+4707770,2024-03-04 17:00:00,2024,3,17,Monday,Unknown,0,40.839767,-73.905396,1,0,1,0,0,0,0,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Unknown,Usaf -Car/Suv,0,Unknown,Unknown,East
+4707671,2024-03-05 12:40:00,2024,3,12,Tuesday,Unknown,0,40.786,-73.84574,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Station Wagon/Sport Utility Vehicle,Niss -Car/Suv,2015,Unknown,Left Front Bumper,South
+4707482,2024-03-05 19:20:00,2024,3,19,Tuesday,Queens,11378,40.722897,-73.91386,0,0,0,0,0,0,0,0,Failure To Yield Right-Of-Way,Failure To Yield Right-Of-Way,Sedan,Niss -Car/Suv,2023,F,Left Front Bumper,North
+4707860,2024-03-05 16:27:00,2024,3,16,Tuesday,Unknown,0,40.65958,-73.89247,0,0,0,0,0,0,0,0,Passing Or Lane Usage Improper,Passing Or Lane Usage Improper,Pk,Dodg-Truck/Bus,0,Unknown,Right Front Bumper,East
+4707415,2024-03-05 09:52:00,2024,3,9,Tuesday,Queens,11101,40.737095,-73.93992,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Unspecified,Sedan,Ford -Car/Suv,2000,Unknown,Left Front Quarter Panel,North
+4707415,2024-03-05 09:52:00,2024,3,9,Tuesday,Queens,11101,40.737095,-73.93992,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Unknown,Unknown,0,Unknown,Unknown,North
+4707407,2024-03-05 13:05:00,2024,3,13,Tuesday,Manhattan,10035,,,0,0,0,0,0,0,0,0,Turning Improperly,Unspecified,Station Wagon/Sport Utility Vehicle,Jeep -Car/Suv,2023,M,Left Front Quarter Panel,East
+4707407,2024-03-05 13:05:00,2024,3,13,Tuesday,Manhattan,10035,,,0,0,0,0,0,0,0,0,Turning Improperly,Turning Improperly,Pick-Up Truck,Ford -Car/Suv,2023,M,Right Side Doors,Southeast
+4707222,2024-03-05 07:35:00,2024,3,7,Tuesday,Unknown,0,40.822712,-73.903145,1,0,0,0,0,0,1,0,View Obstructed/Limited,View Obstructed/Limited,Station Wagon/Sport Utility Vehicle,Toyt -Car/Suv,2023,M,Right Front Bumper,West
+4707340,2024-03-05 13:02:00,2024,3,13,Tuesday,Manhattan,10031,40.817596,-73.95319,1,0,0,0,1,0,0,0,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,Following Too Closely,Bike,Unknown,0,M,Right Rear Quarter Panel,North
+4707340,2024-03-05 13:02:00,2024,3,13,Tuesday,Manhattan,10031,40.817596,-73.95319,1,0,0,0,1,0,0,0,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,Sedan,Lexs -Car/Suv,2016,M,Right Front Bumper,North
+4707837,2024-02-28 22:29:00,2024,2,22,Wednesday,Staten Island,10310,40.63367,-74.12848,1,0,1,0,0,0,0,0,Failure To Yield Right-Of-Way,Failure To Yield Right-Of-Way,Sedan,Acur -Car/Suv,2008,M,Left Front Bumper,East
+4707552,2024-03-05 10:20:00,2024,3,10,Tuesday,Queens,11373,40.73829,-73.877335,0,0,0,0,0,0,0,0,Backing Unsafely,Backing Unsafely,Sedan,Dodg -Car/Suv,2022,Unknown,Left Rear Quarter Panel,North
+4707847,2024-03-05 22:50:00,2024,3,22,Tuesday,Unknown,0,40.87788,-73.8448,1,0,0,0,0,0,1,0,Unsafe Speed,Unsafe Speed,Sedan,Hyun -Car/Suv,2008,M,Right Front Quarter Panel,North
+4707847,2024-03-05 22:50:00,2024,3,22,Tuesday,Unknown,0,40.87788,-73.8448,1,0,0,0,0,0,1,0,Unsafe Speed,Unspecified,Box Truck,Workhorse Custom Chasis,2009,Unknown,Left Rear Bumper,North
+4707433,2024-03-05 16:34:00,2024,3,16,Tuesday,Brooklyn,11210,40.632145,-73.952736,0,0,0,0,0,0,0,0,Passing Or Lane Usage Improper,Unspecified,Station Wagon/Sport Utility Vehicle,Bmw -Car/Suv,2021,F,Center Front End,North
+4707392,2024-03-05 18:47:00,2024,3,18,Tuesday,Brooklyn,11235,40.582737,-73.95605,0,0,0,0,0,0,0,0,Unsafe Lane Changing,Unsafe Lane Changing,Station Wagon/Sport Utility Vehicle,Toyt -Car/Suv,2021,F,Left Rear Quarter Panel,East
+4707595,2024-03-05 11:14:00,2024,3,11,Tuesday,Manhattan,10065,40.767967,-73.96822,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Station Wagon/Sport Utility Vehicle,Lndr -Car/Suv,2020,F,Left Front Quarter Panel,North
+4707469,2024-03-05 13:30:00,2024,3,13,Tuesday,Queens,11366,40.72441,-73.79589,1,0,1,0,0,0,0,0,Unspecified,Unspecified,Station Wagon/Sport Utility Vehicle,Hyun -Car/Suv,2008,F,Center Front End,East
+4707534,2024-03-05 19:50:00,2024,3,19,Tuesday,Brooklyn,11236,40.63597,-73.90125,1,0,0,0,0,0,1,0,Following Too Closely,Unsafe Lane Changing,Sedan,Toyt -Car/Suv,2009,M,Center Back End,South
+4707873,2024-02-24 09:51:00,2024,2,9,Saturday,Bronx,10454,40.8077,-73.92955,3,0,0,0,0,0,3,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Dump,Mack-Truck/Bus,2021,M,Left Front Quarter Panel,South
+4707545,2024-03-05 17:26:00,2024,3,17,Tuesday,Unknown,0,40.70153,-73.92314,0,0,0,0,0,0,0,0,Passing Too Closely,Passing Too Closely,Unknown,Unknown,0,Unknown,Left Front Bumper,North
+4707545,2024-03-05 17:26:00,2024,3,17,Tuesday,Unknown,0,40.70153,-73.92314,0,0,0,0,0,0,0,0,Passing Too Closely,Unspecified,Sedan,Hond -Car/Suv,2024,Unknown,Center Front End,Unknown
+4707883,2024-03-04 17:53:00,2024,3,17,Monday,Brooklyn,11235,40.577995,-73.95964,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Station Wagon/Sport Utility Vehicle,Mazd -Car/Suv,2021,F,Left Front Bumper,East
+4707883,2024-03-04 17:53:00,2024,3,17,Monday,Brooklyn,11235,40.577995,-73.95964,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Unknown,Unknown,0,Unknown,No Damage,East
+4707178,2024-03-05 08:05:00,2024,3,8,Tuesday,Queens,11377,40.739784,-73.89587,0,0,0,0,0,0,0,0,Failure To Yield Right-Of-Way,Unspecified,Tractor Truck Diesel,Intl-Truck/Bus,2020,M,Right Front Bumper,North
+4707178,2024-03-05 08:05:00,2024,3,8,Tuesday,Queens,11377,40.739784,-73.89587,0,0,0,0,0,0,0,0,Failure To Yield Right-Of-Way,Failure To Yield Right-Of-Way,Sedan,Merz -Car/Suv,2017,M,Left Front Bumper,West
+4707637,2024-03-05 10:35:00,2024,3,10,Tuesday,Unknown,0,,,1,0,0,0,0,0,1,0,Following Too Closely,Unspecified,Sedan,Bmw -Car/Suv,2023,F,Center Back End,East
+4707637,2024-03-05 10:35:00,2024,3,10,Tuesday,Unknown,0,,,1,0,0,0,0,0,1,0,Following Too Closely,Following Too Closely,Sedan,Hond -Car/Suv,2021,M,Center Front End,East
+4707477,2024-03-05 15:30:00,2024,3,15,Tuesday,Unknown,0,40.638096,-74.16232,1,0,1,0,0,0,0,0,Unspecified,Unspecified,Station Wagon/Sport Utility Vehicle,Ford -Car/Suv,2013,Unknown,Center Front End,North
+4707512,2024-03-05 14:00:00,2024,3,14,Tuesday,Bronx,10472,40.82853,-73.879974,1,0,1,0,0,0,0,0,Unspecified,Unspecified,Unknown,Unknown,0,Unknown,Right Front Bumper,Unknown
+4707803,2024-02-12 20:30:00,2024,2,20,Monday,Queens,11413,40.674194,-73.7625,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Unspecified,Sedan,Toyt -Car/Suv,2021,F,Left Rear Bumper,North
+4707577,2024-03-05 14:10:00,2024,3,14,Tuesday,Unknown,0,,,0,0,0,0,0,0,0,0,Unsafe Lane Changing,Unspecified,Sedan,Ford -Car/Suv,2022,M,Right Front Quarter Panel,East
+4707577,2024-03-05 14:10:00,2024,3,14,Tuesday,Unknown,0,,,0,0,0,0,0,0,0,0,Unsafe Lane Changing,Unsafe Lane Changing,Unknown,Unknown,0,Unknown,Unknown,East
+4707358,2024-03-05 10:00:00,2024,3,10,Tuesday,Queens,11411,40.697777,-73.745865,1,0,0,0,0,0,1,0,Passing Or Lane Usage Improper,Passing Or Lane Usage Improper,Sedan,Toyt -Car/Suv,2014,F,Left Front Bumper,Southwest
+4707358,2024-03-05 10:00:00,2024,3,10,Tuesday,Queens,11411,40.697777,-73.745865,1,0,0,0,0,0,1,0,Passing Or Lane Usage Improper,Unspecified,Sedan,Niss -Car/Suv,2020,M,Left Rear Quarter Panel,North
+4707285,2024-03-05 09:52:00,2024,3,9,Tuesday,Brooklyn,11214,40.61322,-73.99617,1,0,0,0,0,0,0,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Ford -Car/Suv,0,Unknown,Center Front End,South
+4707285,2024-03-05 09:52:00,2024,3,9,Tuesday,Brooklyn,11214,40.61322,-73.99617,1,0,0,0,0,0,0,0,Driver Inattention/Distraction,Unspecified,E-Scooter,Wide Wheel,0,F,Center Back End,South
+4707586,2024-03-05 01:25:00,2024,3,1,Tuesday,Bronx,10465,40.829235,-73.82432,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Sedan,Hond -Car/Suv,2023,Unknown,Left Rear Bumper,Southwest
+4707586,2024-03-05 01:25:00,2024,3,1,Tuesday,Bronx,10465,40.829235,-73.82432,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Sedan,Niss -Car/Suv,2020,Unknown,Right Front Bumper,Southwest
+4707437,2024-03-05 21:19:00,2024,3,21,Tuesday,Brooklyn,11219,40.63358,-74.00483,1,0,1,0,0,0,0,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Station Wagon/Sport Utility Vehicle,Toyt -Car/Suv,2023,F,Center Front End,Northeast
+4707360,2024-03-05 07:45:00,2024,3,7,Tuesday,Unknown,0,40.621357,-74.02198,0,0,0,0,0,0,0,0,Following Too Closely,Following Too Closely,Station Wagon/Sport Utility Vehicle,Chev -Car/Suv,2019,F,Right Front Bumper,West
+4707360,2024-03-05 07:45:00,2024,3,7,Tuesday,Unknown,0,40.621357,-74.02198,0,0,0,0,0,0,0,0,Following Too Closely,Following Too Closely,Sedan,Kia -Car/Suv,2017,F,Center Front End,West
+4707820,2024-03-05 11:50:00,2024,3,11,Tuesday,Manhattan,10018,40.752853,-73.99299,1,0,0,0,1,0,0,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Unknown,Unknown,0,Unknown,Other,North
+4707721,2024-03-05 08:57:00,2024,3,8,Tuesday,Unknown,0,40.71881,-73.83266,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Sedan,Unknown,2022,M,Right Rear Bumper,West
+4707272,2024-03-05 10:30:00,2024,3,10,Tuesday,Queens,11379,40.716187,-73.88412,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Unspecified,Station Wagon/Sport Utility Vehicle,Chev -Car/Suv,2022,F,Center Back End,South
+4707272,2024-03-05 10:30:00,2024,3,10,Tuesday,Queens,11379,40.716187,-73.88412,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Sedan,Toyt -Car/Suv,2002,M,Left Front Bumper,South
+4707272,2024-03-05 10:30:00,2024,3,10,Tuesday,Queens,11379,40.716187,-73.88412,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Unspecified,Unknown,Unknown,0,Unknown,Unknown,Unknown
+4707522,2024-03-05 15:50:00,2024,3,15,Tuesday,Manhattan,10030,40.823177,-73.944084,0,0,0,0,0,0,0,0,Unspecified,Unspecified,3-Door,Gmc-Truck/Bus,2019,M,Left Rear Quarter Panel,South
+4707325,2024-03-05 06:24:00,2024,3,6,Tuesday,Brooklyn,11205,40.689583,-73.972145,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Pick-Up Truck,Cadi -Car/Suv,2007,Unknown,Center Back End,Unknown
+4707325,2024-03-05 06:24:00,2024,3,6,Tuesday,Brooklyn,11205,40.689583,-73.972145,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Sedan,Merz -Car/Suv,2008,M,Center Front End,North
+4707594,2024-03-05 13:41:00,2024,3,13,Tuesday,Brooklyn,11205,40.694256,-73.97799,1,0,1,0,0,0,0,0,Unspecified,Unspecified,Pk,Ford-Truck/Bus,2013,M,Left Front Quarter Panel,Northwest
+4707239,2024-03-05 01:06:00,2024,3,1,Tuesday,Unknown,0,40.710243,-73.9584,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Sedan,Hond -Car/Suv,2011,F,Right Front Quarter Panel,North
+4707704,2024-03-05 09:15:00,2024,3,9,Tuesday,Unknown,0,40.846527,-73.87146,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Sedan,Niss -Car/Suv,2015,F,Center Front End,South
+4707704,2024-03-05 09:15:00,2024,3,9,Tuesday,Unknown,0,40.846527,-73.87146,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Unspecified,Sedan,Bmw -Car/Suv,2014,M,Center Back End,South
+4707350,2024-03-05 17:57:00,2024,3,17,Tuesday,Brooklyn,11234,40.61253,-73.93573,0,0,0,0,0,0,0,0,Unsafe Speed,Unspecified,Station Wagon/Sport Utility Vehicle,Hyun -Car/Suv,2022,F,Center Front End,East
+4707892,2024-03-04 19:23:00,2024,3,19,Monday,Brooklyn,11213,40.667305,-73.93128,0,0,0,0,0,0,0,0,Other Vehicular,Other Vehicular,Sedan,Acur -Car/Suv,2020,M,Left Front Bumper,South
+4707427,2024-03-05 09:30:00,2024,3,9,Tuesday,Manhattan,10010,40.74211,-73.99089,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Unknown,Unknown,0,Unknown,Unknown,Unknown
+4707829,2024-03-01 22:40:00,2024,3,22,Friday,Unknown,0,40.81782,-73.89264,0,0,0,0,0,0,0,0,Unsafe Speed,Unsafe Speed,Sedan,Infi -Car/Suv,2021,Unknown,Center Front End,North
+4707859,2024-03-05 10:10:00,2024,3,10,Tuesday,Brooklyn,11207,40.674118,-73.89839,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Unspecified,Sedan,Toyt -Car/Suv,2012,M,Center Back End,North
+4707458,2024-03-05 20:45:00,2024,3,20,Tuesday,Queens,11370,40.759426,-73.884186,1,0,1,0,0,0,0,0,Failure To Yield Right-Of-Way,Failure To Yield Right-Of-Way,Station Wagon/Sport Utility Vehicle,Hond -Car/Suv,2024,M,Center Front End,Southeast
+4707341,2024-03-05 11:35:00,2024,3,11,Tuesday,Queens,11432,40.71652,-73.79495,1,0,1,0,0,0,0,0,Failure To Yield Right-Of-Way,Failure To Yield Right-Of-Way,Sedan,Niss -Car/Suv,2010,F,Center Front End,North
+4707314,2024-03-05 14:30:00,2024,3,14,Tuesday,Queens,11419,40.691708,-73.82952,1,0,0,0,1,0,0,0,Driver Inattention/Distraction,Unspecified,Station Wagon/Sport Utility Vehicle,Chev -Car/Suv,2012,F,Center Back End,Northeast
+4707314,2024-03-05 14:30:00,2024,3,14,Tuesday,Queens,11419,40.691708,-73.82952,1,0,0,0,1,0,0,0,Driver Inattention/Distraction,Driver Inattention/Distraction,E-Bike,Unknown,0,M,Center Front End,West
+4707768,2024-03-01 15:22:00,2024,3,15,Friday,Unknown,0,40.830368,-73.89718,0,0,0,0,0,0,0,0,Passing Or Lane Usage Improper,Unspecified,Sedan,Hond -Car/Suv,2017,F,Left Front Quarter Panel,West
+4707768,2024-03-01 15:22:00,2024,3,15,Friday,Unknown,0,40.830368,-73.89718,0,0,0,0,0,0,0,0,Passing Or Lane Usage Improper,Passing Or Lane Usage Improper,Station Wagon/Sport Utility Vehicle,Hond -Car/Suv,2016,Unknown,Right Front Quarter Panel,North
+4707371,2024-03-05 16:32:00,2024,3,16,Tuesday,Manhattan,10033,40.84456,-73.9335,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Sedan,Hyun -Car/Suv,0,Unknown,Left Rear Bumper,North
+4707485,2024-03-05 18:07:00,2024,3,18,Tuesday,Bronx,10468,40.86138,-73.906166,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Unspecified,Sedan,Hyun -Car/Suv,2010,M,Right Front Bumper,North
+4707550,2024-03-05 08:30:00,2024,3,8,Tuesday,Unknown,0,40.8283,-73.88296,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Sedan,Dodg -Car/Suv,2019,M,No Damage,East
+4707406,2024-03-05 16:38:00,2024,3,16,Tuesday,Brooklyn,11249,40.70166,-73.961464,0,0,0,0,0,0,0,0,Following Too Closely,Unspecified,Pick-Up Truck,Ford -Car/Suv,2016,M,Left Rear Quarter Panel,East
+4707491,2024-03-05 18:46:00,2024,3,18,Tuesday,Queens,11421,40.690685,-73.86634,0,0,0,0,0,0,0,0,Backing Unsafely,Backing Unsafely,School Bus,Unknown,0,Unknown,Left Rear Bumper,Southeast
+4707491,2024-03-05 18:46:00,2024,3,18,Tuesday,Queens,11421,40.690685,-73.86634,0,0,0,0,0,0,0,0,Backing Unsafely,Unspecified,Sedan,Hond -Car/Suv,2000,Unknown,Left Side Doors,East
+4707374,2024-03-05 15:25:00,2024,3,15,Tuesday,Queens,11361,40.75958,-73.76894,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Unspecified,Station Wagon/Sport Utility Vehicle,Hond -Car/Suv,2011,F,Right Front Bumper,South
+4707903,2024-03-05 00:00:00,2024,3,0,Tuesday,Brooklyn,11236,40.62893,-73.89039,1,0,0,0,0,0,1,0,Passing Or Lane Usage Improper,Unspecified,Sedan,Niss -Car/Suv,2014,F,Left Front Quarter Panel,East
+4707903,2024-03-05 00:00:00,2024,3,0,Tuesday,Brooklyn,11236,40.62893,-73.89039,1,0,0,0,0,0,1,0,Passing Or Lane Usage Improper,Unspecified,Sedan,Unknown,0,Unknown,Left Side Doors,East
+4707834,2024-03-04 07:35:00,2024,3,7,Monday,Brooklyn,11238,40.682003,-73.9687,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Station Wagon/Sport Utility Vehicle,Unknown,0,Unknown,Other,West
+4707416,2024-03-05 13:42:00,2024,3,13,Tuesday,Unknown,0,40.73556,-73.915054,0,0,0,0,0,0,0,0,Brakes Defective,Brakes Defective,Station Wagon/Sport Utility Vehicle,Chev -Car/Suv,2003,M,Center Front End,West
+4707851,2024-03-03 14:30:00,2024,3,14,Sunday,Unknown,0,40.84825,-73.90975,1,0,1,0,0,0,0,0,Unspecified,Unspecified,Unknown,Unknown,0,Unknown,Unknown,Unknown
+4707590,2024-03-05 23:42:00,2024,3,23,Tuesday,Bronx,10467,40.878365,-73.870445,1,0,0,0,0,0,1,0,Following Too Closely,View Obstructed/Limited,Bus,Mci,0,M,Right Side Doors,East
+4707578,2024-03-05 14:26:00,2024,3,14,Tuesday,Unknown,0,,,1,0,0,0,0,0,1,0,Following Too Closely,Unspecified,Sedan,Suba -Car/Suv,2021,M,Center Back End,East
+4707362,2024-03-05 17:00:00,2024,3,17,Tuesday,Queens,11422,40.662663,-73.74088,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Sedan,Buic -Car/Suv,2013,F,Left Rear Quarter Panel,North
+4707362,2024-03-05 17:00:00,2024,3,17,Tuesday,Queens,11422,40.662663,-73.74088,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Unspecified,Unknown,Unknown,0,Unknown,Unknown,Unknown
+4707793,2024-03-05 18:10:00,2024,3,18,Tuesday,Unknown,0,,,0,0,0,0,0,0,0,0,Backing Unsafely,Backing Unsafely,Sedan,Infi -Car/Suv,2015,Unknown,Unknown,West
+4707793,2024-03-05 18:10:00,2024,3,18,Tuesday,Unknown,0,,,0,0,0,0,0,0,0,0,Backing Unsafely,Unspecified,Sedan,Bmw -Car/Suv,2018,M,Left Front Quarter Panel,North
+4707750,2024-02-18 22:15:00,2024,2,22,Sunday,Brooklyn,11211,40.708817,-73.95899,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Tow Truck / Wrecker,Frht-Truck/Bus,2021,M,Center Front End,West
+4707286,2024-03-05 12:35:00,2024,3,12,Tuesday,Brooklyn,11219,40.642246,-73.998055,0,0,0,0,0,0,0,0,Backing Unsafely,Backing Unsafely,Sedan,Jagu -Car/Suv,2020,M,Right Rear Bumper,West
+4707286,2024-03-05 12:35:00,2024,3,12,Tuesday,Brooklyn,11219,40.642246,-73.998055,0,0,0,0,0,0,0,0,Backing Unsafely,Unspecified,Unknown,Unknown,0,Unknown,Unknown,Unknown
+4707843,2024-03-05 14:17:00,2024,3,14,Tuesday,Brooklyn,11238,40.681564,-73.96658,0,0,0,0,0,0,0,0,Alcohol Involvement,Unspecified,Unknown,Ford,2014,M,Center Front End,West
+4707466,2024-03-05 16:16:00,2024,3,16,Tuesday,Queens,11101,40.743084,-73.9358,1,0,0,0,0,0,1,0,Passing Or Lane Usage Improper,Passing Or Lane Usage Improper,Taxi,Toyt -Car/Suv,2023,Unknown,Right Front Bumper,Southwest
+4707466,2024-03-05 16:16:00,2024,3,16,Tuesday,Queens,11101,40.743084,-73.9358,1,0,0,0,0,0,1,0,Passing Or Lane Usage Improper,Unspecified,Sedan,Toyt -Car/Suv,2010,M,Left Side Doors,Southwest
+4707192,2024-03-05 04:23:00,2024,3,4,Tuesday,Unknown,0,40.719566,-73.94561,1,0,0,0,0,0,1,0,Following Too Closely,Unspecified,Sedan,Toyt -Car/Suv,2015,M,Center Back End,East
+4707520,2024-03-05 11:10:00,2024,3,11,Tuesday,Unknown,0,40.608105,-73.75414,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Sedan,Hond -Car/Suv,2013,M,Center Front End,North
+4707520,2024-03-05 11:10:00,2024,3,11,Tuesday,Unknown,0,40.608105,-73.75414,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Unspecified,Pick-Up Truck,Ford -Car/Suv,2023,M,Center Back End,North
+4707412,2024-03-05 22:33:00,2024,3,22,Tuesday,Manhattan,10010,40.740185,-73.986374,0,0,0,0,0,0,0,0,Turning Improperly,Unspecified,Unknown,Unknown,0,Unknown,Unknown,Unknown
+4707412,2024-03-05 22:33:00,2024,3,22,Tuesday,Manhattan,10010,40.740185,-73.986374,0,0,0,0,0,0,0,0,Turning Improperly,Turning Improperly,Bus,Mcin-Truck/Bus,2007,M,Right Side Doors,Southwest
+4707805,2024-03-05 16:01:00,2024,3,16,Tuesday,Brooklyn,11221,40.694088,-73.93427,1,0,0,0,0,0,1,0,Driver Inattention/Distraction,Unspecified,Station Wagon/Sport Utility Vehicle,Dodg -Car/Suv,2019,M,Right Front Bumper,South
+4707436,2024-03-05 19:00:00,2024,3,19,Tuesday,Brooklyn,11218,40.64226,-73.9846,0,0,0,0,0,0,0,0,Unspecified,Unspecified,Sedan,Mits -Car/Suv,2011,Unknown,Right Rear Quarter Panel,West
+4707539,2024-03-05 21:31:00,2024,3,21,Tuesday,Brooklyn,11236,40.637962,-73.91347,1,0,1,0,0,0,0,0,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,Station Wagon/Sport Utility Vehicle,Niss -Car/Suv,2011,M,Center Front End,North
+4707357,2024-03-05 10:56:00,2024,3,10,Tuesday,Unknown,0,40.585133,-73.954544,0,0,0,0,0,0,0,0,Reaction To Uninvolved Vehicle,Following Too Closely,Station Wagon/Sport Utility Vehicle,Unknown,0,Unknown,Center Front End,West
+4707357,2024-03-05 10:56:00,2024,3,10,Tuesday,Unknown,0,40.585133,-73.954544,0,0,0,0,0,0,0,0,Reaction To Uninvolved Vehicle,Reaction To Uninvolved Vehicle,Station Wagon/Sport Utility Vehicle,Chry -Car/Suv,2019,M,Center Back End,West
+4707261,2024-03-05 11:18:00,2024,3,11,Tuesday,Queens,11105,40.779926,-73.91748,1,0,0,0,0,0,1,0,Failure To Yield Right-Of-Way,Failure To Yield Right-Of-Way,Sedan,Chry -Car/Suv,2014,F,Left Front Quarter Panel,Southeast
+4707261,2024-03-05 11:18:00,2024,3,11,Tuesday,Queens,11105,40.779926,-73.91748,1,0,0,0,0,0,1,0,Failure To Yield Right-Of-Way,Unspecified,Sedan,Toyt -Car/Suv,2021,M,Center Front End,South
+4707621,2024-03-05 20:24:00,2024,3,20,Tuesday,Unknown,0,40.697052,-73.75734,0,0,0,0,0,0,0,0,Unsafe Speed,Unspecified,Station Wagon/Sport Utility Vehicle,Dodg -Car/Suv,2018,M,Right Side Doors,North
+4707821,2024-03-05 22:18:00,2024,3,22,Tuesday,Unknown,0,40.75469,-73.99536,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Unspecified,Convertible,Chev -Car/Suv,2022,M,Left Rear Quarter Panel,South
+4707821,2024-03-05 22:18:00,2024,3,22,Tuesday,Unknown,0,40.75469,-73.99536,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Convertible,Lndr -Car/Suv,0,Unknown,Right Front Bumper,South
+4707394,2024-03-05 16:00:00,2024,3,16,Tuesday,Unknown,0,40.66929,-73.842445,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Unspecified,Sedan,Toyt -Car/Suv,2021,M,Center Back End,West
+4707384,2024-03-05 20:40:00,2024,3,20,Tuesday,Queens,11375,40.722622,-73.849144,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Tractor Truck Diesel,Intl-Truck/Bus,2024,M,Right Front Quarter Panel,North
+4707737,2024-03-05 07:30:00,2024,3,7,Tuesday,Unknown,0,40.772953,-73.92028,0,0,0,0,0,0,0,0,Turning Improperly,Turning Improperly,Box Truck,Isu-Truck/Bus,2015,M,Right Side Doors,Northwest
+4707476,2024-03-05 14:00:00,2024,3,14,Tuesday,Unknown,0,40.72225,-74.00592,1,0,0,0,0,0,1,0,Following Too Closely,Following Too Closely,Sedan,Tesl -Car/Suv,2023,F,Right Front Bumper,West
+4707476,2024-03-05 14:00:00,2024,3,14,Tuesday,Unknown,0,40.72225,-74.00592,1,0,0,0,0,0,1,0,Following Too Closely,Following Too Closely,Unknown,Dodg -Car/Suv,2018,M,Left Rear Quarter Panel,West
+4707511,2024-03-05 17:22:00,2024,3,17,Tuesday,Queens,11436,40.680477,-73.7921,1,0,0,0,0,0,1,0,Failure To Yield Right-Of-Way,Unspecified,Station Wagon/Sport Utility Vehicle,Jeep -Car/Suv,2023,M,Center Front End,North
+4707419,2024-03-05 17:00:00,2024,3,17,Tuesday,Brooklyn,11204,40.610786,-73.97882,1,0,0,0,0,0,1,0,Driver Inexperience,Unspecified,Pk,Ford-Truck/Bus,2022,Unknown,Left Rear Quarter Panel,West
+4707419,2024-03-05 17:00:00,2024,3,17,Tuesday,Brooklyn,11204,40.610786,-73.97882,1,0,0,0,0,0,1,0,Driver Inexperience,Unspecified,Pk,Dodg-Truck/Bus,2012,Unknown,Left Rear Quarter Panel,West
+4707419,2024-03-05 17:00:00,2024,3,17,Tuesday,Brooklyn,11204,40.610786,-73.97882,1,0,0,0,0,0,1,0,Driver Inexperience,Unspecified,Van,Merz-Truck/Bus,2020,Unknown,Left Rear Quarter Panel,West
+4707419,2024-03-05 17:00:00,2024,3,17,Tuesday,Brooklyn,11204,40.610786,-73.97882,1,0,0,0,0,0,1,0,Driver Inexperience,Driver Inexperience,Ambulance,Ford-Truck/Bus,2022,M,Right Front Quarter Panel,West
+4707855,2024-03-03 17:50:00,2024,3,17,Sunday,Unknown,0,40.675053,-73.947235,1,0,0,0,0,0,1,0,Aggressive Driving/Road Rage,Aggressive Driving/Road Rage,Pk,Unknown,0,Unknown,Center Front End,East
+4707893,2024-03-04 08:00:00,2024,3,8,Monday,Brooklyn,11225,40.6689,-73.95862,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Driver Inattention/Distraction,Sedan,Unknown,0,Unknown,Left Front Quarter Panel,East
+4707893,2024-03-04 08:00:00,2024,3,8,Monday,Brooklyn,11225,40.6689,-73.95862,0,0,0,0,0,0,0,0,Driver Inattention/Distraction,Unspecified,Sedan,Hond -Car/Suv,2018,Unknown,Right Front Bumper,East
+4707447,2024-03-05 08:00:00,2024,3,8,Tuesday,Queens,11385,40.706512,-73.878136,1,0,0,0,0,0,1,0,Failure To Yield Right-Of-Way,Unspecified,Station Wagon/Sport Utility Vehicle,Hond -Car/Suv,2017,F,Left Front Quarter Panel,West
